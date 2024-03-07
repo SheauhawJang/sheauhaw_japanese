@@ -1,0 +1,7 @@
+﻿l_japanese:
+ ep1_notifications.0011.t:0 "あなたは宮廷言語を変更した"
+ ep1_notifications.0011.desc:0 "我らの宮廷がさらに壮麗になりますように！"
+ ep1_notifications.0012.t:0 "[target_character.GetShortUINameNoTooltip]は宮廷言語を変更した"
+ ep1_notifications.0012.desc:0 "[target_character.GetShortUINameNoTooltip]の宮廷では今、[target_character.GetCourtLanguage.GetName]が話されている。彼らの決断の愚かさが証明されますように！"
+ ep1_notifications.0013.t:0 "[target_character.GetShortUINameNoTooltip]は宮廷言語を変更した"
+ ep1_notifications.0013.desc:0 "[target_character.GetShortUINameNoTooltip]の宮廷では今、[target_character.GetCourtLanguage.GetName]が話されている。最も賢明な決断だ！"

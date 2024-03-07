@@ -1,0 +1,13 @@
+﻿l_japanese:
+ fled_riot_at_races_memory_desc:0 "競技会の競争路で暴動が発生し、多くの参加者が負傷した時、私は安全な場所へ退避した"
+ fled_riot_at_races_memory_desc_second_perspective:0 "競技会の競争路で暴動が発生し、多くの参加者が負傷した時、あなたは安全な場所へ退避した"
+ fled_riot_at_races_memory_desc_third_perspective:0 "競技会の競争路で暴動が発生し、多くの参加者が負傷した時、[owner.GetHerHis]は安全な場所へ退避した"
+ failed_riot_at_races_memory_desc:0 "暴徒どもの乱暴を阻止できず、レースは台無しになり、多くの参加者が負傷した"
+ failed_riot_at_races_memory_desc_second_perspective:0 "あなたは暴徒どもの乱暴を阻止できず、レースは台無しになり、多くの参加者が負傷した"
+ failed_riot_at_races_memory_desc_third_perspective:0 "[owner.GetName]は暴徒どもの乱暴を阻止できず、[owner.HerHis]のレースは台無しになり、多くの参加者が負傷した"
+ calmed_the_crowd_memory_desc:0 "重々しくも雄弁な言葉のみで、私はおびただしい数の騒ぎ立てる暴徒を鎮めた"
+ calmed_the_crowd_memory_desc_second_perspective:0 "重々しくも雄弁な言葉のみで、あなたはおびただしい数の騒ぎ立てる暴徒を鎮めた"
+ calmed_the_crowd_memory_desc_third_perspective:0 "重々しくも雄弁な言葉のみで、[owner.GetName]はおびただしい数の騒ぎ立てる暴徒を鎮めた"
+ fled_riot_at_races_memory:0 "レース中に暴動が起こったので逃走した"
+ failed_riot_at_races_memory:0 "レース中の観客の暴動を止められなかった"
+ calmed_the_crowd_memory:0 "騒ぎ立てる暴徒を立派な演説で鎮めた"

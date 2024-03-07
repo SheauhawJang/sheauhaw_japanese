@@ -1,0 +1,13 @@
+﻿l_japanese:
+ culture_group_military:0 "軍事"
+ culture_group_civic:0 "内政"
+ culture_group_regional:1 "文化と地域"
+ culture_group_any:0 "すべて"
+ culture_era_tribal:0 "部族"
+ culture_era_tribal_desc:0 "部族の時代は成文化した法と制度化された政府の出現以前の[culture|E]です。[tribal_government|E]を持つ統治者は部族の時代の[innovations|E]しか利用できません。"
+ culture_era_early_medieval:0 "中世初期"
+ culture_era_early_medieval_desc:0 "中世初期の時代は専門の管理者の出現と複数の重要な[innovations|E]が見られ、[culture|E]が暗黒時代を抜け出せるようになります。"
+ culture_era_high_medieval:0 "中世盛期"
+ culture_era_high_medieval_desc:0 "中世盛期の時代は技術と行政が大きく進歩をはじめ、町が都市へと発展し貴族が最高の地位を占める一方で市民階級が台頭してきます。"
+ culture_era_late_medieval:0 "中世後期"
+ culture_era_late_medieval_desc:0 "中世後期の時代は封建世界の頂点です。官僚、職人、商人、貸金業者は旧特権階級の力を侵害しはじめていますが、君主自身には及んでいません。"

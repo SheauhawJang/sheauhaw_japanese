@@ -1,0 +1,6 @@
+﻿l_japanese:
+ jewish_events.0001.t:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]の複婚制の終わり"
+ jewish_events.0001.desc:0 "何世紀にもわたって、複数の配偶者を娶ることが許されるかどうかは不明瞭であったが、[ROOT.Char.GetFaith.GetName]の最も影響力のあるラビによる小規模な会議の後、[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]信仰において、複婚制はもはや許されない慣習であることが決定された。\n\nこの決定の主な動機は、一人では複数の配偶者を十分に養うことができないこと、そして複婚制の実践により配偶者同士が互いに嫉妬という罪深い行為を犯す可能性があるという懸念からであった。"
+ jewish_events.0001.a:0 "むべなるかな。"
+ jewish_events.0001.b:0 "我々[ROOT.Char.GetCulture.GetCollectiveNoun]がそのやり方を捨てることはない！"
+ jewish_events.0001.c:0 "ラビは自分の立場を忘れているのではないか。"

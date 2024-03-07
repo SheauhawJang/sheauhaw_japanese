@@ -1,0 +1,6 @@
+﻿l_japanese:
+ FLEET_PREDICTION_HEADER:0 "#T $DATE|V$に出港#!"
+ FLEET_PREDICTION_BREAKDOWN_ENTRY:0 "[ARMY.GetName]"
+ FLEET_PREDICTION_BASE_COST:0 "基本"
+ EMBARK_COST:0 "#T [embark|E]費用#!"
+ EMBARK_COST_EXPENSIVE:1 "@warning_icon!#X 出港コストが現在の国庫を上回っています！#!"

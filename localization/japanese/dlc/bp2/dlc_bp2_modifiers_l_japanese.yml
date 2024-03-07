@@ -1,0 +1,9 @@
+﻿l_japanese:
+ holding_torch_modifier: "情熱を抱いて"
+ holding_torch_modifier_desc: "この人物は片思いの情熱を未だ心に抱いており、それにより少しだけ弱くなっています。"
+ reminiscing_modifier: "追憶に耽ける"
+ reminiscing_modifier_desc: "この人物は青春時代を思いを馳せています"
+ delayed_heartbreak_modifier: "時間差の失恋"
+ delayed_heartbreak_modifier_desc: "この人物はかつての情熱を取り戻そうとして、失敗した。"
+ besotted_modifier: "熱を上げて"
+ besotted_modifier_desc: "若者のような燃える情熱に満ちるこの人物は他の誰かにお熱なようです。"
