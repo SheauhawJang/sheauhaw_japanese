@@ -1,0 +1,22 @@
+﻿l_japanese:
+
+ # Default name
+ mercenary_company_default:0 "[TITLE.GetDeJureLiege.GetNameNoTierNoTooltip][TITLE.GetDeJureLiege.GetTierAsNameNoTooltip]衆"
+
+ # Ninja aliases
+ mercenary_company_shinobi:0 "忍"          # Common
+ mercenary_company_rappa:0 "乱破"          # Southern Kanto
+ mercenary_company_nokizaru:0 "軒猿"       # Eastern Hokuriku
+ mercenary_company_suppa1:0 "透破"         # Koshin
+ mercenary_company_suppa2:0 "水破"         # Southern Kinai
+
+ # Ninja clans
+ mercenary_company_iga:0 "伊賀者"          # Western Chubu
+ mercenary_company_koka:0 "甲賀者"         # Central Kinai
+
+ # Mercenaries
+ mercenary_company_saika:0 "雑賀衆"        # Southern Kinai
+ mercenary_company_negoro:0 "根来衆"       # Southern Kinai
+
+ # Worrior monks
+ mercenary_company_sohei:0 "僧兵"

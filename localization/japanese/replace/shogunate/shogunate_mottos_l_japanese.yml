@@ -1,0 +1,224 @@
+﻿l_japanese:
+
+ HOUSE_MOTTO_FIELD:0 "家訓"
+
+
+ ## Dewa Clans
+
+ # Ando
+ dynn_10000001_motto:0 "斗星の北天に在るにさも似たり"
+
+ # Mogami
+ dynn_10000007_motto:0 "智仁勇の三徳を兼ね、その誉れ世に高し"
+ house_shgnt_mogami_motto:0 "$dynn_10000007_motto$"
+
+ # Date
+ dynn_10000010_motto:0 "曇りなき心の月を先立てて　浮世の闇を照らしてぞ行く"
+
+
+ ## Northern Oshu Clans
+
+ # Nanbu
+ dynn_10000031_motto:0 "三日月の丸くなるまで南部領"
+
+ # Oura
+ dynn_10000033_motto:0 "不制于天地人"
+ house_shgnt_nambu_oura_motto:0 "$dynn_10000033_motto$"
+
+
+ ## Northern Kanto Clans
+
+ # Utsunomiya
+ dynn_10000109_motto:0 "戦場に臨んで命を棄る事塵芥よりも尚軽くす"
+
+
+ ## Eastern Kanto Clans
+
+ # Satomi
+ dynn_10000119_motto:0 "仁者必ず勇あり"
+
+
+ ## Western Kanto Clans
+
+ # Uesugi
+ dynn_10000100_motto:0 "運は天にあり、鎧は胸にあり、手柄は足にあり"
+ house_shgnt_nagao_uesugi_motto:0 "$dynn_10000100_motto$"
+
+
+ ## Southern Kanto Clans
+
+ # Hojo (Later)
+ dynn_10000160_motto:0 "勝って兜の緒を締めよ"
+ house_shgnt_hojo_motto:0 "$dynn_10000160_motto$"
+
+
+ ## Koshin Clans
+
+ # Takeda (Kai)
+ dynn_10000200_motto:0 "御旗楯無も御照覧あれ"
+
+ # Sanada
+ dynn_10000222_motto:0 "六文銭は三途の川の渡し賃　不惜身命の意也"
+
+
+ ## Tokai Clans
+
+ # Imagawa
+ dynn_10000230_motto:0 "御所が絶えなば吉良が継ぎ、吉良が絶えなば今川が継ぐ"
+
+ # Tokugawa
+ dynn_10000239_motto:0 "人の一生は重荷を負うて遠き道を行くが如し"
+ house_shgnt_matsudaira_tokugawa_motto:0 "$dynn_10000239_motto$"
+
+ # Matsudaira
+ dynn_10000240_motto:0 "厭離穢土欣求浄土"
+
+
+ ## Chubu Clans
+
+ # Toki
+ dynn_10000253_motto:0 "岡に咲く神草"
+
+ # Akechi
+ dynn_10000269_motto:0 "時は今　雨が下しる　五月哉"
+ house_shgnt_toki_akechi_motto:0 "$dynn_10000269_motto$"
+
+ # Takenaka
+ dynn_10000274_motto:0 "陣中で死ぬこそ武士の本望"
+
+ # Shiba
+ dynn_10000279_motto:0 "万能一心"
+
+ # Oda
+ dynn_10000280_motto:0 "一度生を得て、滅せぬ者のあるべきか"
+
+ # Hashiba
+ dynn_10000283_motto:0 "其人の名字を一字ずつ賜らん"
+
+ # Toyotomi
+ dynn_10000284_motto:0 "浪速のことも夢のまた夢"
+ house_shgnt_toyotomi_motto:0 "$dynn_10000284_motto$"
+
+ # Ganshoji
+ dynn_10000285_motto:0 "愛山護法"
+ house_shgnt_ganshoji_motto:0 "$dynn_10000285_motto$"
+
+ # Maeda
+ dynn_10000296_motto:0 "梅は葵のたかに咲く"
+
+ # Takigawa
+ dynn_10000297_motto:0 "進むも滝川、退くも滝川"
+
+ # Shibata
+ dynn_10000698_motto:0 "夏の夜の夢路はかなき後の名を　雲井にあげよ山ほととぎす"
+
+ # Kato
+ dynn_10000745_motto:0 "上一人の心、下万人に通ず"
+
+
+ ## Western Hokuriku Clans
+
+ # Asakura
+ dynn_10000350_motto:0 "武者は犬ともいへ、畜生ともいへ、勝つ事が本にて候"
+
+
+ ## Central Kinai Clans
+
+ # Ashikaga
+ dynn_10000400_motto:0 "二頭の龍が天に昇る"
+
+ # Yamato
+ dynn_10000420_motto:0 "八紘をおおいて宇と為んこと、またよからずや"
+
+ # Honganji
+ dynn_10000430_motto:0 "進めば極楽浄土、退けば無間地獄"
+
+ # Sen
+ dynn_10000439_motto:0 "一期一会"
+
+ # Rokkaku
+ dynn_10000450_motto:0 "わが思う心のうちは六の角　ただ円かれと祈るなりけり"
+ house_shgnt_rokkaku_motto:0 "$dynn_10000450_motto$"
+
+ # Ishida
+ dynn_10000462_motto:0 "大一大万大吉"
+
+ # Kusunoki
+ dynn_10000488_motto:0 "七生まで只同じ人間に生れて、朝敵を滅さばやとこそ存候へ"
+
+ # Todo
+ dynn_10000751_motto:0 "寝屋を出るよりその日を死番と心得るべし"
+
+
+ ## Southern Kinai Clans
+
+ # Hatakeyama
+ dynn_10000404_motto:0 "坂東武士の鑑たれ"
+
+
+ ## Sanin Clans
+
+ # Yamana
+ dynn_10000500_motto:0 "凡そ例というは、其時が例也"
+
+ # Amago
+ dynn_10000515_motto:0 "お薬師さまを平生みだりに拝してはいけない　深く秘蔵せよ"
+ house_shgnt_amago_motto:0 "$dynn_10000515_motto$"
+
+ # Yamanaka
+ dynn_10000516_motto:0 "我に七難八苦を与えたまへ"
+
+ # Tako
+ dynn_10000519_motto:0 "命は軽く、名は重い"
+
+
+ ## Sanyo Clans
+
+ # Kuroda
+ dynn_10000534_motto:0 "兵法は平法なり"
+
+
+ ## Western Chugoku Clans
+
+ # Mori
+ dynn_10000560_motto:0 "百万一心"
+
+ # Kobayakawa (Mori)
+ dynn_10000562_motto:0 "面白の春雨や、花の散らぬ程に降れ"
+ house_shgnt_mori_kobayakawa_motto:0 "$dynn_10000562_motto$"
+
+ # Sue
+ dynn_10000565_motto:0 "何を惜しみ、何を恨まん"
+
+ # Ouchi
+ dynn_10000570_motto:0 "如露亦如電　応作如是観"
+
+
+ ## Shikoku Clans
+
+ # Miyoshi
+ dynn_10000587_motto:0 "歌連歌ぬるきものぞと言うものの　梓弓矢も取りたるもなし"
+
+
+ ## Northern Kyushu Clans
+
+ # Ryuzoji
+ dynn_10000691_motto:0 "分別も久しくすればねまる"
+
+
+ ## Southern Kyushu Clans
+
+ # Shimazu
+ dynn_10000600_motto:0 "古の道を聞きても唱へても　我が行ひにせずばかひなし"
+
+
+ ## Kamakura Era Clans
+
+ # Taira
+ dynn_10001100_motto:0 "平家に非ずんば人に非ず"
+
+ # Fujiwara (Oshu)
+ dynn_10001300_motto:0 "金色堂、上下四壁は皆金色なり"
+
+ # Hojo (Early)
+ dynn_10006129_motto:0 "協心戮力"

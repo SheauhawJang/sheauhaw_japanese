@@ -1,0 +1,330 @@
+﻿l_japanese:
+
+ unlock_tribal_economic_buildings:0 "すべての鎌倉時代の[economic_buildings|E]を解禁"
+ unlock_tribal_military_buildings:0 "すべての鎌倉時代の[military_buildings|E]を解禁"
+ unlock_tribal_fortification_buildings:0 "すべての鎌倉時代の[fortification_buildings|E]を解禁"
+ unlock_early_medieval_economic_buildings:0 "すべての戦国時代初期の[economic_buildings|E]を解禁"
+ unlock_early_medieval_military_buildings:0 "すべての戦国時代初期の[military_buildings|E]を解禁"
+ unlock_early_medieval_fortification_buildings:0 "すべての戦国時代初期の[fortification_buildings|E]を解禁"
+ unlock_high_medieval_economic_buildings:0 "すべての戦国時代中期の[economic_buildings|E]を解禁"
+ unlock_high_medieval_military_buildings:0 "すべての戦国時代中期の[military_buildings|E]を解禁"
+ unlock_high_medieval_fortification_buildings:0 "すべての戦国時代中期の[fortification_buildings|E]を解禁"
+ unlock_late_medieval_economic_buildings:0 "すべての安土桃山時代の[economic_buildings|E]を解禁"
+ unlock_late_medieval_military_buildings:0 "すべての安土桃山時代の[military_buildings|E]を解禁"
+ unlock_late_medieval_fortification_buildings:0 "すべての安土桃山時代の[fortification_buildings|E]を解禁"
+
+
+#############
+# Heian Era #
+#############
+
+ # Military
+
+ innovation_shogunate_tachi:0 "太刀"
+ innovation_shogunate_tachi_desc:0 "太刀（たち）は馬上での戦いに向いた反りのある日本刀です。徒歩による集団戦が中心になると廃れ、打刀に取って代わられました。"
+
+ innovation_shogunate_wakyu:0 "和弓"
+ innovation_shogunate_wakyu_desc:0 "和弓（わきゅう）は長さが2メートル以上もある日本の長弓です。その長さから、弓の中央より下部を握って使用されます。"
+
+ innovation_catapult:0 "掻楯"
+ innovation_catapult_desc:0 "掻楯（かいだて）は敵の矢を防ぐため、楯を城や陣地に垣のように立て並べたものです。垣楯（かきだて）とも呼ばれます。"
+
+ innovation_shogunate_bushi:0 "武士"
+ innovation_shogunate_bushi_desc:0 "武士（ぶし）は武芸を身につけ、軍事に携わる者です。平安時代中期以降に台頭しましたが、その起源には諸説あり、定説はありません。"
+
+ innovation_shogunate_goso:0 "強訴"
+ innovation_shogunate_goso_desc:0 "強訴（ごうそ）は武力を背景に集団で訴えや要求を突きつける行動です。主に寺社が朝廷や幕府に対して行いました。"
+
+ innovation_horseshoes:0 "草履"
+ innovation_horseshoes_desc:0 "草履（ぞうり）はわらなどで作られる日本の伝統的な履物です。日常生活でも旅でも使える履物として武家社会に広まりました。"
+
+ # Civic
+
+ innovation_shogunate_shogun:0 "征夷大将軍"
+ innovation_shogunate_shogun_desc:0 "征夷大将軍（せいいたいしょうぐん）は朝廷の官職で、蝦夷を征討する軍の総指揮官です。のちに武家の棟梁をも意味するようになりました。"
+
+ innovation_shogunate_inzen:0 "院宣"
+ innovation_shogunate_inzen_desc:0 "院宣（いんぜん）は上皇や法皇の政治意思を伝える文書です。非公式の私的文書ではあるものの、権威があり、院政を支えました。"
+
+ innovation_gavelkind:0 "荘園公領制"
+ innovation_gavelkind_desc:0 "荘園公領制（しょうえんこうりょうせい）は、荘園（寄進地）と公領（国衙領）を土台とした土地支配構造です。鎌倉時代に最盛期を迎えました。"
+
+ innovation_shogunate_song_trade:0 "日宋貿易"
+ innovation_shogunate_song_trade_desc:0 "日宋貿易（にっそうぼうえき）は日本と中国の宋朝との間で行われた貿易です。宋銭や仏教経典の輸入は日本に大きな影響を与えました。"
+
+ innovation_shogunate_yusoku_kojitsu:0 "有職故実"
+ innovation_shogunate_yusoku_kojitsu_desc:0 "有職故実（ゆうそくこじつ）は儀礼・官職・制度などの典拠となる古来の先例や、その研究です。公家や武家の間で重んじられました。"
+
+ innovation_shogunate_shinden_zukuri:0 "寝殿造"
+ innovation_shogunate_shinden_zukuri_desc:0 "寝殿造（しんでんづくり）は貴族住宅の建築様式で、屋敷の中心となる建物を寝殿と呼びます。時代とともに書院造へと変化しました。"
+
+ innovation_shogunate_mappo_shiso:0 "末法思想"
+ innovation_shogunate_mappo_shiso_desc:0 "末法思想（まっぽうしそう）は釈迦入滅の数千年後に仏教が衰えると考える歴史観です。平安時代から鎌倉時代に流行しました。"
+
+ innovation_shogunate_sarugaku:0 "猿楽"
+ innovation_shogunate_sarugaku_desc:0 "猿楽（さるがく）は民衆の間で演じられた寸劇や曲芸など雑多な芸能の総称です。能や狂言の原型となりました。"
+
+
+################
+# Kamakura Era #
+################
+
+ # Military
+
+ innovation_motte:0 "館"
+ innovation_motte_desc:0 "館（たち）は地方豪族の居所である小規模な城塞です。館の周囲には堀や溝が作られ、塀や土塁が巡らされていました。"
+
+ innovation_quilted_armor:0 "大鎧"
+ innovation_quilted_armor_desc:0 "大鎧（おおよろい）は馬上で弓を射るのに向いた甲冑です。格式の高い鎧とされ、平安時代から鎌倉時代の上級武士が着用しました。"
+
+ innovation_bannus:0 "御恩と奉公"
+ innovation_bannus_desc:0 "御恩と奉公（ごおんとほうこう）は中世日本における武士の主従関係を表す概念です。主人が従者に与える利益を御恩、従者が主人に与える利益を奉公と呼びます。"
+
+ innovation_mustering_grounds:0 "御家人"
+ innovation_mustering_grounds_desc:0 "御家人（ごけにん）は将軍に忠誠を誓い、主従関係を結んだ武士です。所領安堵の見返りとして、軍役と公事の義務を負いました。"
+
+ innovation_barracks:0 "侍所"
+ innovation_barracks_desc:0 "侍所（さむらいどころ）は鎌倉・室町幕府において、御家人や武士の統率を行う軍事・警察組織です。政所、問注所と並ぶ幕府の主要機関でした。"
+
+ innovation_shogunate_shikimoku:0 "式目"
+ innovation_shogunate_shikimoku_desc:0 "式目（しきもく）は法規を箇条書きにしたものです。武家政権の式目としては、鎌倉幕府の御成敗式目や室町幕府の建武式目が有名です。"
+
+ # Civic
+
+ innovation_plenary_assemblies:0 "守護・地頭"
+ innovation_plenary_assemblies_desc:0 "守護（しゅご）と地頭（じとう）は幕府が地方支配のために設置した役職です。守護は国単位で、地頭は荘園・公領単位で任命されました。"
+
+ innovation_hereditary_rule:0 "惣領制"
+ innovation_hereditary_rule_desc:0 "惣領制（そうりょうせい）は一族を統率する惣領が所領の主要部分を相続し、残りの所領を惣領以外の男子や女子が相続する分割相続制度です。幕府は惣領を通じて一族を支配しました。"
+
+ innovation_currency_01:0 "借上"
+ innovation_currency_01_desc:0 "借上（かしあげ）は金銭を貸して高利を得る金融業者です。平安時代末期から南北朝時代にかけて存在し、室町時代に土倉が取って代わりました。"
+
+ innovation_development_01:0 "問丸"
+ innovation_development_01_desc:0 "問丸（といまる）は港や都市に住み、年貢米などの運送・保管・取引に携わった業者です。一部は営業独占権を確立し、問屋の原型になりました。"
+
+ innovation_casus_belli:0 "下知状"
+ innovation_casus_belli_desc:0 "下知状（げじじょう）は将軍の命令を伝えるために発給される幕府の公式文書です。特権の免許、禁制の制札、裁判の判決などに用いられました。"
+
+ innovation_city_planning:0 "徳政令"
+ innovation_city_planning_desc:0 "徳政令（とくせいれい）は債権者や金融業者に対して、債権・債務の破棄を命じた法令です。のちに徳政令を求める一揆が頻発しました。"
+
+ innovation_crop_rotation:0 "二毛作"
+ innovation_crop_rotation_desc:0 "二毛作（にもうさく）は同じ耕地で一年間に二種類の異なる作物を栽培することです。鎌倉時代から稲と麦の二毛作が普及しました。"
+
+ innovation_ledger:0 "大田文"
+ innovation_ledger_desc:0 "大田文（おおたぶみ）は鎌倉時代に作成された土地台帳です。公領・荘園別の田地面積、所有関係などを記載しました。図田帳（ずでんちょう）とも呼ばれます。"
+
+
+#################
+# Muromachi Era #
+#################
+
+ # Military
+
+ innovation_shogunate_naginata:0 "薙刀"
+ innovation_shogunate_naginata_desc:0 "薙刀（なぎなた）は長い柄の先に反りのある刀身をつけた武具です。平安時代に登場し、南北朝時代には主要武器として使われました。"
+
+ innovation_shogunate_domaru:0 "胴丸"
+ innovation_shogunate_domaru_desc:0 "胴丸（どうまる）は徒歩での戦いに適した甲冑です。本来は下級武士のものでしたが、戦術の変化に伴い上級武士も着用するようになりました。"
+
+ innovation_mangonel:0 "井楼"
+ innovation_mangonel_desc:0 "井楼（せいろう）は木や竹を組み合わせて作った櫓です。物見櫓として城内に建てる他、戦場で敵陣の偵察や城内の制圧に用いられました。"
+
+ innovation_shogunate_hokoshu:0 "奉公衆"
+ innovation_shogunate_hokoshu_desc:0 "奉公衆（ほうこうしゅう）は室町幕府における将軍直属の武官です。一方、将軍直属の文官は奉行衆（ぶぎょうしゅう）と呼ばれました。"
+
+ innovation_shogunate_toritsugi:0 "取次"
+ innovation_shogunate_toritsugi_desc:0 "取次（とりつぎ）は主君と家臣の間の仲介、あるいは他勢力との外交交渉を行う者です。主君の権威を背景に権勢を振るう場合もありました。"
+
+ innovation_shogunate_bashaku:0 "馬借"
+ innovation_shogunate_bashaku_desc:0 "馬借（ばしゃく）は馬に荷物を載せて運搬する運送業者です。その組織力と機動力から、しばしば土一揆の中心になりました。"
+
+ # Civic
+
+ innovation_shogunate_shugo_daimyo:0 "守護大名"
+ innovation_shogunate_shugo_daimyo_desc:0 "守護大名（しゅごだいみょう）は室町時代の守護のうち、軍事・警察権力のみならず経済的権力をも掌握して領国の支配を強めた者です。"
+
+ innovation_primogeniture:0 "尊卑分脈"
+ innovation_primogeniture_desc:0 "尊卑分脈（そんぴぶんみゃく）は源平藤橘など諸家の系図を集成したものです。多くの異本がありますが、史料的価値は高いと考えられています。"
+
+ innovation_shogunate_doso_sakaya:0 "土倉・酒屋"
+ innovation_shogunate_doso_sakaya_desc:0 "土倉（どそう）は鎌倉・室町時代の金融業者です。物品を担保として金銭を高利で貸与し、多くは酒屋（さかや）との兼業でした。"
+
+ innovation_shogunate_soson:0 "惣村"
+ innovation_shogunate_soson_desc:0 "惣村（そうそん）は中世における農民の自治的な共同組織です。時として、複数の惣村が連帯して一揆を起こすことがありました。"
+
+ innovation_shogunate_gonaisho:0 "御内書"
+ innovation_shogunate_gonaisho_desc:0 "御内書（ごないしょ）は将軍が発給した命令書です。私的な書状の形を取りましたが、次第に公文書と同様の効力を持つようになりました。"
+
+ innovation_shogunate_shoin_zukuri:0 "書院造"
+ innovation_shogunate_shoin_zukuri_desc:0 "書院造（しょいんづくり）は武家住宅の建築様式で、屋敷の中心となる建物を書院と呼びます。現代の和風住宅に強い影響を与えました。"
+
+ innovation_shogunate_suibokuga:0 "水墨画"
+ innovation_shogunate_suibokuga_desc:0 "水墨画（すいぼくが）は墨の濃淡で描かれる絵画です。鎌倉時代に中国から伝来し、禅宗文化の興隆に伴い室町時代に全盛期を迎えました。"
+
+ innovation_shogunate_noh_kyogen:0 "能・狂言"
+ innovation_shogunate_noh_kyogen_desc:0 "能（のう）と狂言（きょうげん）は猿楽から発展した日本の伝統芸能です。高尚な歌舞劇の能、世俗的な科白劇の狂言という対比が双方を引き立てています。"
+
+
+#####################
+# Early Sengoku Era #
+#####################
+ 
+ # Military 
+
+ innovation_arched_saddle:0 "馬上槍"
+ innovation_arched_saddle_desc:0 "馬上槍（ばじょうやり）は騎馬武者が用いる槍です。鎌倉時代の騎馬武者は弓を武器としましたが、やがて太刀、薙刀、長巻に取って代わられ、戦国時代には槍が主流となりました。"
+
+ innovation_shogunate_haramaki:0 "腹巻"
+ innovation_shogunate_haramaki_desc:0 "腹巻（はらまき）は徒歩での戦いに適した、胴丸より軽量で安価な甲冑です。本来は下級武士のものでしたが、戦術の変化に伴い上級武士も着用するようになりました。"
+
+ innovation_battlements:0 "土塀"
+ innovation_battlements_desc:0 "土塀（どべい）は城を取り囲む石垣や土塁の上に建てられる壁です。土塀は板塀に代わり中世以降主流となりました。"
+
+ innovation_house_soldiers:0 "馬廻"
+ innovation_house_soldiers_desc:0 "馬廻（うままわり）は大将の馬に付き従い護衛や伝令にあたった騎馬の武士です。武芸に秀でた者が集められる親衛隊的な存在でした。"
+
+ innovation_burhs:0 "足軽"
+ innovation_burhs_desc:0 "足軽（あしがる）は身分の低い歩兵です。戦国時代に入り集団戦が本格化すると、訓練された足軽が長槍・弓・鉄砲などの部隊に組織され活躍するようになりました。"
+
+ innovation_shogunate_jizamurai:0 "地侍"
+ innovation_shogunate_jizamurai_desc:0 "地侍（じざむらい）は守護大名や国衆と主従関係を結び、侍身分を獲得した有力名主です。多くは村に在住し、村の指導者であり続けました。"
+
+ # Civic
+
+ innovation_royal_prerogative:0 "戦国大名"
+ innovation_royal_prerogative_desc:0 "戦国大名（せんごくだいみょう）は戦国時代の戦乱の中で各地に割拠した独立勢力です。戦国大名の一部は守護大名を出自としますが、下剋上により戦国大名となった者も少なくありません。"
+
+ innovation_heraldry:0 "家法"
+ innovation_heraldry_desc:0 "家法（かほう）は武家社会における家の基本法規です。戦国大名が地域的支配を確立すると、領国を支配するための分国法に変化しました。"
+
+ innovation_chronicle_writing:0 "下剋上"
+ innovation_chronicle_writing_desc:0 "下剋上（げこくじょう）は社会的に身分の低い者が身分の高い者を実力で倒し、権力を手中にする風潮です。戦国時代に多く見られました。"
+
+ innovation_baliffs:0 "一揆"
+ innovation_baliffs_desc:0 "一揆（いっき）は共通の目的で団結した集団です。民衆が領主に反抗して結成するだけでなく、地方領主が団結した国一揆や宗教的背景を持つ一向一揆もありました。"
+
+ innovation_manorialism:0 "検地"
+ innovation_manorialism_desc:0 "検地（けんち）は田畑の面積や収量を調査することです。戦国大名は支配地域に課税する目的で検地を行いました。"
+
+ innovation_currency_02:0 "撰銭令"
+ innovation_currency_02_desc:0 "撰銭令（えりぜにれい）は幕府や大名が撰銭を禁止した命令です。撰銭とは民衆が取引において粗悪な悪銭の使用を断る行為を指します。"
+
+ innovation_development_02:0 "見世棚"
+ innovation_development_02_desc:0 "見世棚（みせだな）は販売する商品を陳列する棚です。のちに、商品を陳列する場所を指して店（みせ／たな）と呼ぶようになりました。"
+
+ innovation_armilary_sphere:0 "水軍"
+ innovation_armilary_sphere_desc:0 "水軍（すいぐん）は水上における伝統的な軍事集団です。戦国大名は積極的に在地の水軍を家臣団に組み入れました。海賊衆（かいぞくしゅう）、警固衆（けいごしゅう）とも呼ばれます。"
+
+
+###################
+# Mid Sengoku Era #
+###################
+
+ # Military
+
+ innovation_hoardings:0 "多聞櫓"
+ innovation_hoardings_desc:0 "多聞櫓（たもんやぐら）は長屋式の櫓です。兵士の宿舎となる長屋を本格建築に変え、櫓としても使えるよう石垣に建てたものです。"
+
+ innovation_trebuchet:0 "竹束"
+ innovation_trebuchet_desc:0 "竹束（たけたば）は竹を束ねて縄で縛った楯です。従来の木の楯では防ぎきれない火縄銃の弾丸を止めることができました。"
+
+ innovation_men_at_arms:0 "譜代"
+ innovation_men_at_arms_desc:0 "譜代（ふだい）は同じ主家に代々仕える家臣の家系です。譜代に対して一般の家臣を外様（とざま）と呼びます。"
+
+ innovation_knighthood:0 "小姓"
+ innovation_knighthood_desc:0 "小姓（こしょう）は主君の身辺に仕えて雑用を務める役です。多くは少年で、成長後に側近として活躍する者もいました。"
+
+ innovation_castle_baileys:0 "軍役衆"
+ innovation_castle_baileys_desc:0 "軍役衆（ぐんやくしゅう）は年貢の負担を一部免除される代わりに軍役を負わされた農民です。戦国大名の戦力の一部を担いました。"
+ 
+ innovation_shogunate_sekisho:0 "関所撤廃"
+ innovation_shogunate_sekisho_desc:0 "関所（せきしょ）は交通の要所や国境に設置される防衛・検問・徴税のための施設です。一部の戦国大名は経済発展のため関所を撤廃しました。"
+
+ # Civic
+
+ innovation_divine_right:0 "直奏"
+ innovation_divine_right_desc:0 "直奏（じきそう）は大名が朝廷と直接交渉して官位を得ることです。官位は領国支配の正当性や戦の大義名分にも利用されました。"
+
+ innovation_land_grants:0 "朱印状"
+ innovation_land_grants_desc:0 "朱印状（しゅいんじょう）は花押の代わりに朱印が押された公文書です。領地の安堵や海外渡航の許可に用いられました。"
+
+ innovation_windmills:0 "分国法"
+ innovation_windmills_desc:0 "分国法（ぶんこくほう）は戦国大名が領国を支配するために制定した法令です。江戸幕府や諸藩の法に影響を与えました。"
+
+ innovation_guilds:0 "楽市・楽座"
+ innovation_guilds_desc:0 "楽市・楽座（らくいちらくざ）は戦国大名による経済政策です。市場税などの免除と座が持つ市場独占特権の廃止を行いました。"
+
+ innovation_shogunate_nanban_trade:0 "南蛮貿易"
+ innovation_shogunate_nanban_trade_desc:0 "南蛮貿易（なんばんぼうえき）はポルトガル人、スペイン人の来航を契機に日本と海外の間で行われた貿易です。外交政策の転換に伴い終了しました。"
+
+ innovation_currency_03:0 "灰吹法"
+ innovation_currency_03_desc:0 "灰吹法（はいふきほう）は金や銀の鉱石を鉛に溶け込ませて抽出する手法です。戦国時代に伝来し、金銀の産出量を飛躍的に増大させました。"
+
+ innovation_development_03:0 "自治都市"
+ innovation_development_03_desc:0 "自治都市（じちとし）は封建領主の支配を脱して自治権を獲得した都市です。戦国時代では堺や博多が自治都市でした。"
+
+ innovation_scutage:0 "矢銭"
+ innovation_scutage_desc:0 "矢銭（やせん）は幕府や戦国大名が臨時に課した軍用金です。農村では土地面積ごと、都市では家ごとに課されました。"
+
+ # Regional
+
+ innovation_advanced_bowmaking:0 "火縄銃"
+ innovation_advanced_bowmaking_desc:0 "火縄銃（ひなわじゅう）は戦国時代の鉄砲です。マッチロック式のマスケット銃で、1543年に種子島に伝来したことから種子島とも呼ばれました。"
+
+
+#####################
+# Late Medieval Era #
+##################### 
+
+ # Military
+
+ innovation_sappers:0 "土竜攻め"
+ innovation_sappers_desc:0 "土竜攻め（もぐらぜめ）は敵の陣地や城の下まで坑道を掘り、目標を破壊する戦術です。金堀攻め（かなほりぜめ）とも呼ばれます。"
+
+ innovation_plate_armor:0 "当世具足"
+ innovation_plate_armor_desc:0 "当世具足（とうせいぐそく）は甲冑の一形式です。鉄砲伝来や戦闘の大規模化、西洋甲冑の影響を受けて作られました。"
+
+ innovation_machicolations:0 "石垣"
+ innovation_machicolations_desc:0 "石垣（いしがき）は石を組み上げて作られた壁です。鉄砲の伝来により、その攻撃を防ぐ重量構造物を建築する基礎として石垣が採用されました。"
+
+ innovation_standing_armies:0 "旗本"
+ innovation_standing_armies_desc:0 "旗本（はたもと）は主君の直接指揮下にある部隊の家臣です。主に譜代で構成され、戦闘時には本陣に配置されました。"
+
+ innovation_royal_armory:0 "兵農分離"
+ innovation_royal_armory_desc:0 "兵農分離（へいのうぶんり）は武士階級とそれ以外の階級との身分を分離する政策です。検地や刀狩を通じて進められました。"
+
+ innovation_shogunate_tenma_system:0 "伝馬制"
+ innovation_shogunate_tenma_system_desc:0 "伝馬制（てんませい）は街道に沿って中継施設を設置し、人馬がリレー形式で情報を伝達する交通・通信制度です。駅伝制（えきでんせい）とも呼ばれます。"
+
+ # Civic
+
+ innovation_rightful_ownership:0 "天下統一"
+ innovation_rightful_ownership_desc:0 "天下統一（てんかとういつ）は日本全土を統一することです。天下統一を推進した織田信長の死後、その政策を継承した豊臣秀吉が1590年に日本統一を達成しました。"
+
+ innovation_ermine_cloaks:0 "桐紋"
+ innovation_ermine_cloaks_desc:0 "桐紋（きりもん）は桐の葉や花を図案化した家紋です。皇室の印であり、室町幕府や豊臣政権が使用を認められ、現在の日本政府でも用いられています。"
+
+ innovation_court_officials:0 "奉行"
+ innovation_court_officials_desc:0 "奉行（ぶぎょう）は政務を担当し、執行する者です。豊臣政権では五奉行が置かれ、江戸幕府では多くの職名に用いられました。"
+
+ innovation_cranes:0 "手伝普請"
+ innovation_cranes_desc:0 "手伝普請（てつだいふしん）は豊臣政権や江戸幕府が諸大名に命じた大規模な土木建築工事です。諸大名の財政を逼迫させることが目的でした。"
+
+ innovation_development_04:0 "朱印船貿易"
+ innovation_development_04_desc:0 "朱印船貿易（しゅいんせんぼうえき）は海外渡航許可の朱印状を持つ朱印船による東南アジア貿易です。貿易を通じ各地に日本人町が生まれました。"
+
+ innovation_currency_04:0 "割符"
+ innovation_currency_04_desc:0 "割符（さいふ）は遠隔地への送金や商業取引の決済に用いられた為替手形です。日本の為替・両替制度の元になりました。"
+
+ innovation_noblesse_oblige:0 "茶の湯"
+ innovation_noblesse_oblige_desc:0 "茶の湯（ちゃのゆ）は客を招いて茶を振る舞う日本文化です。戦国武将の間に広まり、茶道具が珍重されました。"
+
+ innovation_shogunate_shohekiga:0 "障壁画"
+ innovation_shogunate_shohekiga_desc:0 "障壁画（しょうへきが）は壁や天井、ふすまや屏風に描かれる絵画です。安土桃山時代には金箔を用いた豪壮な障壁画が流行しました。"
+
+ # Regional
+
+ innovation_bombard:0 "大筒"
+ innovation_bombard_desc:0 "大筒（おおづつ）は戦国時代の大砲です。戦国時代後期より用いられ、攻城戦や海戦において威力を発揮しました。"

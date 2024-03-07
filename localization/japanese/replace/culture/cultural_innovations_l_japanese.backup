@@ -1,0 +1,214 @@
+﻿l_japanese:
+
+ unlock_tribal_economic_buildings:0 "Unlocks all Kamakura-Muromachi Era [economic_buildings|E]"
+ unlock_tribal_military_buildings:0 "Unlocks all Kamakura-Muromachi Era [military_buildings|E]"
+ unlock_tribal_fortification_buildings:0 "Unlocks all Kamakura-Muromachi Era [fortification_buildings|E]"
+ unlock_early_medieval_economic_buildings:0 "Unlocks all Early Sengoku Era [economic_buildings|E]"
+ unlock_early_medieval_military_buildings:0 "Unlocks all Early Sengoku Era [military_buildings|E]"
+ unlock_early_medieval_fortification_buildings:0 "Unlocks all Early Sengoku Era [fortification_buildings|E]"
+ unlock_high_medieval_economic_buildings:0 "Unlocks all Mid Sengoku Era [economic_buildings|E]"
+ unlock_high_medieval_military_buildings:0 "Unlocks all Mid Sengoku Era [military_buildings|E]"
+ unlock_high_medieval_fortification_buildings:0 "Unlocks all Mid Sengoku Era [fortification_buildings|E]"
+ unlock_late_medieval_economic_buildings:0 "Unlocks all Late Sengoku Era [economic_buildings|E]"
+ unlock_late_medieval_military_buildings:0 "Unlocks all Late Sengoku Era [military_buildings|E]"
+ unlock_late_medieval_fortification_buildings:0 "Unlocks all Late Sengoku Era [fortification_buildings|E]"
+
+##############
+# Tribal Era #
+##############
+
+ # Military
+
+ innovation_motte:0 "Samurai Residence"
+ innovation_motte_desc:0 "Samurai residence, or Tachi, is a small fort that protects the strategic point. Ditches, earthworks, and walls surround it."
+
+ innovation_catapult:0 "Arranged Shield"
+ innovation_catapult_desc:0 "Arranged shield, or Kaidate, consists of many shields placed on the ground. It can protect soldiers from enemy missiles."
+
+ innovation_barracks:0 "Board of Samurai"
+ innovation_barracks_desc:0 "Board of samurai, or Samurai-dokoro, is the organization that plays military and police roles in Kamakura and Muromachi Shogunate."
+
+ innovation_mustering_grounds:0 "Gokenin"
+ innovation_mustering_grounds_desc:0 "Gokenin is a samurai retainer of the shogun in the Kamakura Shogunate. In return for patronage, they must serve the shogun both militarily and politically."
+
+ innovation_bannus:0 "Tokuseirei Orders"
+ innovation_bannus_desc:0 "Tokuseirei is an order to return the land sold and cancel the debts. Peasant uprisings that demand it increase in the later period."
+
+ innovation_quilted_armor:0 "Favor and Service"
+ innovation_quilted_armor_desc:0 "Favor and service, or Go-on and Hōkō, indicate concepts of master-servant relationships among samurai in medieval Japan."
+
+ # Civic
+
+ innovation_gavelkind:0 "Sōryō System"
+ innovation_gavelkind_desc:0 "Sōryō system is a kind of succession system. Although it's a divided succession, the head of the family, called Sōryō, has some control over other family members."
+
+ innovation_crop_rotation:0 "Double Cropping"
+ innovation_crop_rotation_desc:0 "Double cropping, or Nimōsaku, is the practice of growing two different crops in a year. Japanese produce rice and barley after the Kamakura era."
+
+ innovation_city_planning:0 "Shōen-Kōryō System"
+ innovation_city_planning_desc:0 "Shōen-kōryō system is a land governance structure grounded in Shōen (private estates) and Kōryō (public lands)."
+
+ innovation_casus_belli:0 "Samurai Government"
+ innovation_casus_belli_desc:0 "Samurai government, or Buke Seiji, is a rule by the samurai class. It continues from Kamakura Shogunate until Edo Shogunate."
+
+ innovation_plenary_assemblies:0 "Shugo Daimyō"
+ innovation_plenary_assemblies_desc:0 "Shugo Daimyō is a Shugo (provincial governor) who acquired military and economic power during the Muromachi era."
+
+ innovation_development_01:0 "Moneylenders"
+ innovation_development_01_desc:0 "Moneylenders, or Dosō, lend money at high interest for the pawned item. Many sake dealers, or Sakaya, run such moneylending businesses."
+
+ innovation_currency_01:0 "Imported Currency"
+ innovation_currency_01_desc:0 "Imported currency, or Torai-sen, is widely used in medieval Japan. They mainly import it from China."
+
+ innovation_ledger:0 "Ledger"
+ innovation_ledger_desc:0 "Ledger, or Ōta-bumi, is created during the Kamakura era. It's the provincewide cadaster of private estates and public lands."
+
+######################
+# Early Medieval Era #
+###################### 
+ 
+ # Military 
+
+ innovation_battlements:0 "Earthen Walls"
+ innovation_battlements_desc:0 "Earthen Walls, or Dobei, are built on the base surrounding the castle. They replace wooden walls."
+
+ innovation_mangonel:0 "Siege Towers"
+ innovation_mangonel_desc:0 "Seirō is a kind of watchtower made of wood or bamboo. It is also a simple siege tower."
+
+ innovation_burhs:0 "Ashigaru"
+ innovation_burhs_desc:0 "Ashigaru is a type of low-ranking foot soldier. During the Sengoku period, ashigaru units bear Yari (spears), Yumi (bows), and Teppō (arquebus)."
+
+ innovation_house_soldiers:0 "Horse Guards"
+ innovation_house_soldiers_desc:0 "Horse guards, or Umamawari, are mounted samurai retainers who accompany their commander's horse as bodyguards or messengers in wars."
+
+ innovation_horseshoes:0 "Straw Sandals"
+ innovation_horseshoes_desc:0 "Straw sandals, or Zōri, are a sandal type of traditional Japanese footwear. Japanese people wear them widely in medieval Japan."
+
+ innovation_arched_saddle:0 "Lances"
+ innovation_arched_saddle_desc:0 "Japanese cavalries used Yumi (bows) in the Kamakura era, then they shifted to pole weapons such as Naginata. Now they prefer Yari (lances)."
+
+ # Civic
+
+ innovation_hereditary_rule:0 "Hereditary Rule"
+ innovation_hereditary_rule_desc:0 "The Sōryō System disintegrates, and a divided succession transforms into a single line in the early Muromachi era."
+
+ innovation_manorialism:0 "Land Survey"
+ innovation_manorialism_desc:0 "Land survey, or Kenchi, is the survey of field size and amount of yield. Several daimyos conduct land surveys to set up systems of taxation."
+
+ innovation_royal_prerogative:0 "Sengoku Daimyō"
+ innovation_royal_prerogative_desc:0 "Sengoku Daimyō is a Japanese warlord in the Sengoku period. Many of them are initially Shugo Daimyō, while others get their places by overthrowing their lords."
+
+ innovation_chronicle_writing:0 "Low Overthrow High"
+ innovation_chronicle_writing_desc:0 "The low overthrowing the high, or Gekokujō, is when a person of lower rank defeats a superior either politically or militarily through ability."
+
+ innovation_armilary_sphere:0 "Suigun Navy"
+ innovation_armilary_sphere_desc:0 "Suigun is the traditional armed forces on the water. Daimyo actively organizes a Suigun navy because of its military power and transport force."
+
+ innovation_baliffs:0 "Local Samurai"
+ innovation_baliffs_desc:0 "Local samurai, or Jizamurai, are influential farmers who achieved the position of samurai. The majority of them stay in their villages, being leaders there."
+
+ innovation_development_02:0 "Sōson Community"
+ innovation_development_02_desc:0 "Sōson is a community organized through autonomous and territorial connections among peasants. It sometimes rises in Ikki (uprising)."
+
+ innovation_currency_02:0 "Erizenirei Ban"
+ innovation_currency_02_desc:0 "Erizenirei is a ban on the act of accepting only high-quality coins. It's enforced on people by Shogunate or daimyo."
+
+#####################
+# High Medieval Era #
+#####################
+
+ # Military
+
+ innovation_hoardings:0 "Tamon Turrets"
+ innovation_hoardings_desc:0 "Tamon turret, or Tamon Yagura, is a row-house-like turret. It also serves as a residence for soldiers."
+
+ innovation_trebuchet:0 "Bamboo Shields"
+ innovation_trebuchet_desc:0 "A bamboo shield, or Taketaba, is a shield made of bamboo. It can stop not only arrows but also bullets from the arquebus."
+
+ innovation_castle_baileys:0 "Military Service"
+ innovation_castle_baileys_desc:0 "Peasants contribute military services, or Gunyaku, in wartime in exchange for being exempt from part of their land taxes and labor services."
+
+ innovation_men_at_arms:0 "Hereditary Vassals"
+ innovation_men_at_arms_desc:0 "Hereditary vassals, or Fudai, are vassals who serve the same master house for generations. The other vassals are called Tozama."
+
+ innovation_knighthood:0 "Pages"
+ innovation_knighthood_desc:0 "Pages, or Koshō, are young samurai and serve close to their lords and take care of daily chores and affairs."
+
+ innovation_advanced_bowmaking:0 "Arquebus"
+ innovation_advanced_bowmaking_desc:0 "The arquebus, or Teppō, was introduced to Japan in 1543 by the Portuguese. It is also called Hinawajū or Tanegashima."
+
+ # Civic
+
+ innovation_heraldry:0 "Nobles and Humbles"
+ innovation_heraldry_desc:0 "The biographies of the nobles and humbles, or Sonpi Bunmyaku, is a text that records the lineages of the aristocracy. It's a historical source of the highest value."
+
+ innovation_windmills:0 "Bunkokuhō Laws"
+ innovation_windmills_desc:0 "Bunkokuhō is a law established by daimyo to govern their domains. It will affect the later laws during the Edo period."
+
+ innovation_divine_right:0 "Direct Negotiation"
+ innovation_divine_right_desc:0 "Daimyo often attempts direct negotiation, or Jikisō, with the Imperial Court and receives the official rank. The rank is helpful for the prestige and Casus Belli."
+
+ innovation_land_grants:0 "Vermilion Seal"
+ innovation_land_grants_desc:0 "Vermilion-seal certificate, or Shuinjō, is an official document. It is a certificate for the land or a charter for foreign trade."
+
+ innovation_scutage:0 "War Funds"
+ innovation_scutage_desc:0 "Shogunate and daimyo impose extra war funds called Yasen. The amount depends on field size in a farm area and the number of houses in a city."
+
+ innovation_guilds:0 "Open Guilds"
+ innovation_guilds_desc:0 "Free markets and open guilds, or Rakuichi Rakuza, is an economic policy. It intends the creation of free trade markets and the dissolution of guilds."
+
+ innovation_development_03:0 "Self-governing City"
+ innovation_development_03_desc:0 "A self-governing city, or Jichi Toshi, is a city that is independent of feudal lords. Sakai and Hakata are examples during the Sengoku era."
+
+ innovation_currency_03:0 "Cupellation"
+ innovation_currency_03_desc:0 "Cupellation, or Haifukihō, is a kind of refining process. It was introduced to Japan during the Sengoku era and increased the yield of gold and silver significantly."
+
+#####################
+# Late Medieval Era #
+##################### 
+ 
+ # Military
+
+ innovation_machicolations:0 "Stone Walls"
+ innovation_machicolations_desc:0 "The spread of the arquebus requires stone walls, or Ishigaki, as the base of heavy structures that resist the arquebus' attack."
+
+ innovation_bombard:0 "Cannons"
+ innovation_bombard_desc:0 "Cannons, or Ōzutsu, were introduced to Japanese warfare in the late Sengoku era. They're potent weapons in sieges and naval battles."
+
+ innovation_royal_armory:0 "Samurai and Peasants"
+ innovation_royal_armory_desc:0 "Daimyo goes ahead with the separation of samurai and peasants. It's called Heinō Bunri and includes land survey and sword hunt."
+
+ innovation_standing_armies:0 "Hatamoto"
+ innovation_standing_armies_desc:0 "Hatamoto is a retainer that is under the direct control of a lord. They are organized mainly through hereditary vassals."
+
+ innovation_sappers:0 "Sappers"
+ innovation_sappers_desc:0 "Sappers can dig tunnels under an enemy castle or a camp and destroy them. These tactics are called Mogura-zeme or Kanehori-zeme."
+
+ innovation_plate_armor:0 "Tōsei-Gusoku Armor"
+ innovation_plate_armor_desc:0 "Tōsei-gusoku is a type of armor. It's affected by the spread of the arquebus, large-scale battles, and Western armors."
+
+ # Civic
+
+ innovation_primogeniture:0 "Primogeniture"
+ innovation_primogeniture_desc:0 "Primogeniture spread in the samurai class after the Edo era. It will become a standard succession system after the Meiji period."
+
+ innovation_cranes:0 "Civil Engineering"
+ innovation_cranes_desc:0 "A large-scale civil engineering work, or Tetsudai Fushin, is done by many daimyos under orders from Shogunate. It strains their financial status."
+
+ innovation_noblesse_oblige:0 "Tea Ceremony"
+ innovation_noblesse_oblige_desc:0 "Tea ceremony, or Chanoyu, is a Japanese culture and significantly developed during the Sengoku era. Daimyo often performs it and treasure tea utensils."
+
+ innovation_rightful_ownership:0 "Unification of Japan"
+ innovation_rightful_ownership_desc:0 "Oda Nobunaga fought for the unification of Japan, called Tenka Tōitsu. After his death, Toyotomi Hideyoshi achieved the goal in 1590."
+
+ innovation_ermine_cloaks:0 "Paulownia Crests"
+ innovation_ermine_cloaks_desc:0 "Crests of paulownia patterns, or Kiri-mon, are used by Imperial Family, Muromachi Shogunate, Toyotomi Hideyoshi, and the current Japanese government."
+
+ innovation_court_officials:0 "Magistrates"
+ innovation_court_officials_desc:0 "Magistrates, or Bugyō, is a person who is in charge of government practices. The term will stand for various job titles during the Edo era."
+
+ innovation_development_04:0 "Nanban Trade"
+ innovation_development_04_desc:0 "Nanban trade, or Nanban Bōeki, is a trade between Japan and Portugal or Spain. It brings the arquebus and Christianity to Japan."
+
+ innovation_currency_04:0 "Promissory Notes"
+ innovation_currency_04_desc:0 "A promissory note, or Saifu, is a certificate stamp used to settle money transactions between distant lands. It becomes the origin of currency exchange."

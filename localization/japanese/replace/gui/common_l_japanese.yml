@@ -1,0 +1,2 @@
+﻿l_japanese:
+ TOP_BAR_VERSION:2 "#V Shogunate 正式版#!\nModバージョン: 雲隠 (0.8.5)\nゲームバージョン: [GetGameVersionInfo]\nMPチェックサム: [GetMPChecksum|V] $MODIFIED_CHECKSUM$ [GetRandomLogInfo]"

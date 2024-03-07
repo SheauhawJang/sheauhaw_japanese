@@ -1,0 +1,10 @@
+﻿l_japanese:
+ DIVERGE_NAME_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ DIVERGE_COLLECTIVE_NOUN_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ DIVERGE_PREFIX_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ DIVERGE_NAME_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ DIVERGE_COLLECTIVE_NOUN_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ DIVERGE_PREFIX_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ DIVERGE_NAME_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ DIVERGE_COLLECTIVE_NOUN_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ DIVERGE_PREFIX_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"

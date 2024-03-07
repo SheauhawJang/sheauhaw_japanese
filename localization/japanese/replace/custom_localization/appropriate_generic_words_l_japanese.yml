@@ -1,0 +1,72 @@
+﻿l_japanese:
+
+ food_word_apple:0 "すもも"
+ food_word_apple_indef:0 "すもも"
+ food_word_biscuit:0 "もち"
+ food_word_biscuit_indef:0 "もち"
+
+ clothing_word_shirt:0 "肩衣"
+ clothing_word_blouse:0 "小袖"
+ clothing_word_dress:0 "打掛"
+
+# accessory_earring:0 ""
+# accessory_bow:0 ""
+ accessory_bracelet:0 "数珠"
+# accessory_snood:0 ""
+# accessory_garter:0 ""
+# accessory_gauntlet:0 ""
+ accessory_cap:0 "かんざし"
+# accessory_nose_ring:0 ""
+ accessory_sash:0 "帯"
+ accessory_shawl:0 "被衣"
+ accessory_scarf:0 "手拭い"
+ accessory_sock:0 "足袋"
+ accessory_fan:0 "扇"
+ accessory_muff:0 "手覆"
+
+ food_detail_cilantro:0 "醤油"
+ food_detail_lemon:0 "味噌"
+ food_detail_almond:0 "酢"
+
+ expensive_food_roast_swan:0 "鯛の尾頭付き"
+ expensive_food_veal_cutlets:0 "鯉のあらい"
+ expensive_food_fresh_quail:0 "雉の丸焼き"
+ expensive_food_baked_truffles:0 "松茸の吸い物"
+
+ expensive_food_fine_cheeses:0 "味噌田楽"
+
+ expensive_dessert_saffron_cake:0 "ぼたもち"
+ expensive_dessert_candied_figs:0 "まんじゅう"
+ expensive_dessert_pomegranate_cake:0 "あられ"
+
+ expensive_dessert_saffron_cake_face:0 "ぼたもち"
+ expensive_dessert_candied_figs_face:0 "まんじゅう"
+ expensive_dessert_pomegranate_cake_face:0 "あられ"
+
+ expensive_drink_aqua_vitae:0 "菩提泉"
+ expensive_drink_brandy:0 "百済寺樽"
+ expensive_drink_spiced_wine:0 "観心寺酒"
+ expensive_drink_spiced_wine_singular:0 "観心寺酒"
+ expensive_drink_premium_tea:1 "宇治茶"
+# expensive_drink_invigorating_herbal_infusions:0 ""
+
+ expensive_drink_singular_aqua_vitae:0 "菩提泉"
+ expensive_drink_singular_brandy:0 "百済寺樽"
+ expensive_drink_singular_spiced_wine:0 "観心寺酒"
+ expensive_drink_singular_premium_tea:1 "宇治茶"
+# expensive_drink_singular_herbal_infusions:0 ""
+
+ a_duck:0 "ニワトリ"
+ a_chicken:0 "ひよこ"
+ a_rooster:0 "スズメ"
+ a_goose:0 "カラス"
+
+ duck:0 "キジ"
+ chicken:0 "カモ"
+ rooster:0 "ツバメ"
+ goose:0 "スズメ"
+ pigeon:0 "カラス"
+ owl:0 "フクロウ"
+ blackbird:0 "トキ"
+
+ oak:0 "松"

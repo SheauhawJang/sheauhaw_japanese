@@ -1,0 +1,25 @@
+﻿l_japanese:
+
+ #Common Christian Localization
+ christianity_religion_adherent:0 "キリシタン"
+ christianity_religion_adherent_plural:0 "キリシタン"
+ christianity_high_god_name:0 "デウス"
+ christianity_high_god_name_possessive:0 "デウス"
+ chistianity_good_god_christ:0 "キリシト"
+ christianity_religious_symbol:0 "クルス"
+ christianity_religious_head_title:0 "パッパ"
+ christianity_religious_head_title_name:0 "教皇領"
+ christianity_priest_male:0 "パードレ"
+ christianity_priest_male_plural:0 "パードレ"
+ christianity_positive_afterlife:0 "パライゾ"
+ christianity_positive_afterlife_2:1 "パライソ"
+ christianity_positive_afterlife_3:1 "ハライソ"
+ christianity_negative_afterlife:0 "インヘルノ"
+ christianity_negative_afterlife_2:1 "インヘルノ"
+ christianity_negative_afterlife_3:1 "インヘルノ"
+ christianity_health_god_name:0 "ゼズス"
+ christianity_health_god_name_possessive:0 "ゼズス"
+
+ #Catholic-Group Faiths
+ catholic_adherent:0 "キリシタン"
+ catholic_adherent_plural:0 "キリシタン"

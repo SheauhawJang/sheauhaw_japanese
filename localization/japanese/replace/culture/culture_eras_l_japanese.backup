@@ -1,0 +1,10 @@
+﻿l_japanese:
+ #ERAS
+ culture_era_tribal:0 "Kamakura-Muromachi"
+ culture_era_tribal_desc:0 "The Kamakura-Muromachi Era of a [culture|E] predates the emergence of Sengoku Daimyo. Rulers with [tribal_government|E] can only make use of Kamakura-Muromachi Era [innovations|E]."
+ culture_era_early_medieval:0 "Early Sengoku"
+ culture_era_early_medieval_desc:0 "The Early Sengoku Era sees the emergence of Sengoku Daimyo and a number of important [innovations|E], however a [culture|E] hasn't contacted with the Western civilization yet."
+ culture_era_high_medieval:0 "Mid Sengoku"
+ culture_era_high_medieval_desc:0 "The Mid Sengoku Era is a time of great technological and administrative progress, and the rise of Western cultures such as an arquebus."
+ culture_era_late_medieval:0 "Late Sengoku"
+ culture_era_late_medieval_desc:0 "The Late Sengoku Era is an age of unification. Samurai class and the other classes are starting to be clearly separated."

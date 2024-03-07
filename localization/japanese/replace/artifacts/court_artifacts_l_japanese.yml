@@ -1,0 +1,229 @@
+﻿l_japanese:
+
+ # Wall Decorations - Large
+ artifact_wall_tapestry_name:0 "$artifact_name_prefix$掛軸"
+ artifact_wall_tapestry_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した大きな掛軸。[newly_created_artifact.GetFeatureText( 'tapestry_scene' )]"
+
+ # Sculptures
+ artifact_cabinet:0 "棚"
+ artifact_cabinet_name:0 "$artifact_name_prefix$棚"
+ artifact_cabinet_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した棚。[newly_created_artifact.GetFeatureText( 'generic_material_wood' )]のパネルで組み立てられている。[newly_created_artifact.GetFeatureText( 'wood_decoration' )]"
+
+ # Banner
+ artifact_wall_banner_battle_name:1 "[epic_loser.GetDynasty.GetBaseNameNoTooltip]軍の旗"
+ artifact_wall_banner_battle_description:1 "[epic_battle_location.GetName]の戦いの後に奪った[epic_loser.GetDynasty.GetBaseNameNoTooltip]軍の旗。"
+ artifact_wall_banner_royal_name:0 "[target.GetAdjectiveNoTooltip]の旗"
+ artifact_wall_banner_royal_description:1 "これは[target.GetNameNoTooltip]の旗で、[target.GetHolder.GetTitledFirstNameRegnal]の在任期間を記念して作られたものである。"
+ artifact_wall_banner_house_name:0 "[target.GetBaseNameNoTooltip]家の旗"
+ artifact_wall_banner_house_description:1 "これは[target.GetBaseName]家の旗であり、一族とその末裔の権威の象徴だ。"
+ artifact_wall_banner_dynasty_name:0 "[target.GetBaseNameNoTooltip]一族の旗"
+ artifact_wall_banner_dynasty_description:1 "これは[target.GetBaseName]一族の旗であり、血統とそのすべてのメンバーの権威の象徴であり、[newly_created_artifact.MakeScope.Var('banner_commissioner').Char.GetNameRegnal]により委託された。"
+ artifact_wall_banner_name:1 "[target.GetAdjectiveNoTooltip]の旗"
+ artifact_wall_banner_description:3 "これは[target.GetAdjective]の旗で、[target.GetHolder.GetTitleAsName]の権威の象徴である。"
+
+ # Animals (used in ArtifactAnimalType)
+ animal_type_cat:0 "猫"
+ animal_type_dog:0 "犬"
+ animal_type_fox:0 "狐"
+ animal_type_hare:0 "兎"
+ animal_type_wolf:0 "狼"
+ animal_type_stag:0 "鹿"
+ animal_type_hart:0 "鹿"
+ animal_type_horse:0 "馬"
+ animal_type_rabbit:0 "兎"
+ animal_type_boar:0 "猪"
+ animal_type_lion:0 "獅子"
+ animal_type_tiger:0 "虎"
+ animal_type_bear:0 "熊"
+ animal_type_aurochs:0 "河童"
+ animal_type_unicorn:0 "天狗"
+ animal_type_dragon:0 "龍"
+ animal_type_lynx:0 "麒麟"
+
+ # Hides
+ artifact_hide_type_fox:0 "美しい狐"
+ artifact_hide_type_hare:0 "美しい兎"
+ artifact_hide_type_hart:0 "鹿"
+ artifact_hide_type_stag:0 "威厳ある雄鹿"
+ artifact_hide_type_boar:0 "猪"
+ artifact_hide_type_wolf:0 "狼"
+ artifact_hide_type_lion:0 "獅子"
+ artifact_hide_type_tiger:0 "虎"
+ artifact_hide_type_unicorn:0 "天狗"
+ artifact_hide_type_dragon:0 "龍"
+ artifact_hide_type_lynx:0 "麒麟"
+
+ # Skull
+ artifact_wall_animal_skull_wild_boar:0 "剃刀のような牙を持つ猪"
+ artifact_wall_animal_skull_wolf:0 "鋭い牙の大きな狼"
+ artifact_wall_animal_skull_stag:0 "印象的な大きさの枝角を誇る牡鹿"
+ artifact_wall_animal_skull_lion:0 "巨大な獅子、百獣の王"
+ artifact_wall_animal_skull_tiger:0 "恐ろしい虎"
+ artifact_wall_animal_skull_bear:0 "大熊"
+ artifact_wall_animal_skull_aurochs:0 "巨大な河童"
+ artifact_wall_animal_skull_horse:0 "[owner.GetNameNoTooltip]の亡き後の馬から譲り受けた、強力な軍馬。"
+ artifact_wall_animal_skull_rabbit:2 "世界で一番恐ろしい生物、兎"
+ feature_animal_hide_type_fox:0 "美しい狐"
+ feature_animal_hide_type_hare:0 "美しい兎"
+ feature_animal_hide_type_hart:0 "鹿"
+ feature_animal_hide_type_rabbit:0 "兎"
+ feature_animal_hide_type_stag:0 "威厳ある雄鹿"
+ feature_animal_hide_type_boar:0 "豚"
+ feature_animal_hide_type_wolf:0 "狼"
+ feature_animal_hide_type_lion:0 "獅子"
+ feature_animal_hide_type_bear:0 "熊"
+ feature_animal_hide_type_tiger:0 "虎"
+ feature_animal_hide_type_aurochs:0 "河童"
+ feature_animal_hide_type_unicorn:0 "天狗"
+ feature_animal_hide_type_dragon:0 "龍"
+ feature_animal_hide_type_lynx:0 "麒麟"
+
+ # Skull
+ feature_animal_skull_type_boar:0 "剃刀のような牙を持つ猪"
+ feature_animal_skull_type_wolf:0 "鋭い歯をもつ大狼"
+ feature_animal_skull_type_stag:0 "印象的な大きさの枝角を誇る牡鹿"
+ feature_animal_skull_type_lion:0 "巨大な獅子、百獣の王"
+ feature_animal_skull_type_tiger:0 "恐ろしい虎"
+ feature_animal_skull_type_bear:0 "大熊"
+ feature_animal_skull_type_aurochs:0 "巨大な河童"
+ feature_animal_skull_type_horse:0 "力強い馬"
+ feature_animal_skull_type_rabbit:0 "世界で一番恐ろしい生物、兎"
+ feature_animal_skull_type_unicorn:0 "天狗"
+
+ # Books
+ feature_book_cover_material_wood:0 "紙"
+ feature_book_cover_material_leather:0 "紙"
+ feature_book_cover_material_velvet:0 "紙"
+ feature_book_cover_material_gold:0 "金箔押し"
+ feature_book_cover_material_silver:0 "銀箔押し"
+
+ feature_book_title_fallback:0 "$artifact_name_prefix_artifact_scope$書"
+ feature_book_title_unification:0 "$artifact_name_prefix_artifact_scope$領国統一"
+ feature_book_title_creation:0 "$artifact_name_prefix_artifact_scope$領国形成"
+ feature_book_title_restoration:0 "$artifact_name_prefix_artifact_scope$領国復興"
+ feature_book_title_martial:0 "$artifact_name_prefix_artifact_scope$戦争論"
+ feature_book_title_diplomacy:0 "$artifact_name_prefix_artifact_scope$外交論"
+ feature_book_title_stewardship:0 "$artifact_name_prefix_artifact_scope$管理術"
+ feature_book_title_intrigue:0 "$artifact_name_prefix_artifact_scope$策謀術"
+ feature_book_title_learning:0 "$artifact_name_prefix_artifact_scope$学術論"
+ feature_book_title_witch:0 "[Artifact.GetFeatureText( 'book_subject' )]崇拝"
+ feature_book_title_reveler_one:0 "酒池肉林"
+ feature_book_title_reveler_two:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の友"
+ feature_book_title_blademaster:0 "$artifact_name_prefix_artifact_scope$秘伝書"
+ feature_book_title_hunter_one:0 "$artifact_name_prefix_artifact_scope$狩猟書"
+ feature_book_title_hunter_two:0 "$artifact_name_prefix_artifact_scope$山野の美"
+ feature_book_title_mystic:0 "$artifact_name_prefix_artifact_scope$陰陽道"
+ feature_book_title_herbalist:0 "$artifact_name_prefix_artifact_scope$本草学"
+ feature_book_title_cannibal:0 "$artifact_name_prefix_artifact_scope$美食論"
+ feature_book_title_deviant_one:0 "[Artifact.GetOwner.Custom('DeviantObjectCapitalized')]術"
+ feature_book_title_deviant_two:0 "$artifact_name_prefix_artifact_scope$悦楽新論"
+ feature_book_title_deviant_three:0 "[Artifact.GetOwner.Custom('DeviantObjectCapitalized')]術抄"
+ feature_book_title_voynich:0 "$artifact_name_prefix_artifact_scope$図"
+ feature_book_title_lunatic_one:0 "[Artifact.GetOwner.Custom('LoverPetName_uppercase')]の[Artifact.GetOwner.Custom('FavoriteTreatUppercase')]"
+ feature_book_title_lunatic_two:0 "[Artifact.GetOwner.Custom('prison_pet')|U]の[Artifact.GetOwner.Custom('PetName_uppercase')]"
+ feature_book_title_lunatic_three:0 "[Artifact.GetOwner.Custom('surprised_reaction')|U][Artifact.GetOwner.Custom('trait_lustful_adjective')|U]と[Artifact.GetOwner.Custom('diplomacy_skill_level')|U]"
+ feature_book_title_troop:0 "武士道"
+ feature_book_title_martial_strategy:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の戦略論"
+ feature_book_title_diplomacy_feasting:1 "[Artifact.GetOwner.GetDynasty.GetBaseNameNoTooltip]の饗宴"
+ feature_book_title_diplomacy_court_alliances:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の政治論"
+ feature_book_title_learning_theological_treaties:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の起請文"
+ feature_book_title_learning_metaphysical_conundrums:0 "陰陽道"
+ feature_book_title_learning_tome_collections:0 "$artifact_name_prefix_artifact_scope$群書類従"
+ feature_book_title_stewardship_trade_routes:0 "$artifact_name_prefix_artifact_scope$交易網"
+ feature_book_title_stewardship_best_practices_tax_collectors:0 "$artifact_name_prefix_artifact_scope$蓄財術"
+ feature_book_title_stewardship_lawmaking:0 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U][Artifact.GetOwner.GetFirstNameNoTooltip]式目"
+ feature_book_title_poisons:0 "$artifact_name_prefix_artifact_scope$調合"
+ feature_book_title_intrigue_the_art_of_love_one:0 "$artifact_name_prefix_artifact_scope$篭絡術"
+ feature_book_title_intrigue_the_art_of_love_two:0 "人たらし"
+ feature_book_title_medicine_herbs_one:0 "$artifact_name_prefix_artifact_scope$治癒術"
+ feature_book_title_medicine_herbs_two:0 "本草学"
+ feature_book_title_medicine_witch:0 "$artifact_name_prefix_artifact_scope$秘術"
+
+# witch
+ feature_book_title_witch_love_sorcery:0 "[Artifact.GetFeatureText( 'book_subject' )]の護符"
+ feature_book_title_witch_curse_sorcery:0 "[Artifact.GetFeatureText( 'book_subject' )]の呪法"
+ feature_book_title_witch_witch:0 "[Artifact.GetOwner.GetFaith.WitchGodName|U]"
+
+# martial
+ feature_book_title_martial_military:0 "$artifact_name_prefix_artifact_scope$兵法書"
+ feature_book_title_martial_duels:0 "$artifact_name_prefix_artifact_scope$戦術論"
+ feature_book_title_martial_chivalry:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の武士"
+
+# diplomacy
+ feature_book_title_diplomacy_dynasty:1 "[Artifact.GetOwner.GetDynasty.GetBaseNameNoTooltip]年代記"
+ feature_book_title_diplomacy_cicero:0 "$artifact_name_prefix_artifact_scope$和歌集"
+ feature_book_title_diplomacy_hitopadesa:0 "$artifact_name_prefix_artifact_scope$御伽草子"
+ feature_book_title_diplomacy_kalila:0 "$artifact_name_prefix_artifact_scope$御伽草子"
+ feature_book_title_diplomacy_edda:0 "$artifact_name_prefix_artifact_scope$和歌集"
+ feature_book_title_diplomacy_orkneyinga:0 "$artifact_name_prefix_artifact_scope$御伽草子"
+ feature_book_title_diplomacy_poetry:0 "$artifact_name_prefix_artifact_scope$和歌集"
+ feature_book_title_diplomacy_jokes:0 "$artifact_name_prefix_artifact_scope$頓智話"
+
+# stewardship
+ feature_book_title_stewardship_speculum:0 "$artifact_name_prefix_artifact_scope$君主の鑑"
+ feature_book_title_stewardship_admin:0 "$artifact_name_prefix_artifact_scope$分国統治"
+ feature_book_title_stewardship_architect:0 "[Artifact.GetOwner.GetCulture.GetNameNoTooltip]の建築論"
+ feature_book_title_stewardship_digest:0 "$artifact_name_prefix_artifact_scope$要約"
+
+# intrigue
+ feature_book_title_intrigue_poisons:0 "$artifact_name_prefix_artifact_scope$毒薬概論"
+ feature_book_title_intrigue_seduction:0 "$artifact_name_prefix_artifact_scope$愛の技法"
+ feature_book_title_intrigue_fertility:0 "命の源"
+ feature_book_title_intrigue_punishment:0 "罪と罰"
+
+# learning
+ feature_book_title_learning_religious:1 "$artifact_name_prefix_artifact_scope$[Artifact.GetOwner.GetFaith.ReligiousText|U]"
+ feature_book_title_learning_aristotle:0 "$artifact_name_prefix_artifact_scope$法華経"
+ feature_book_title_learning_iliad:0 "$artifact_name_prefix_artifact_scope$軍記物語"
+ feature_book_title_learning_mahabharata:0 "$artifact_name_prefix_artifact_scope$歴史物語"
+ feature_book_title_learning_mufaddaliyat:0 "$artifact_name_prefix_artifact_scope$和歌集"
+ feature_book_title_learning_prayers:1 "[Artifact.GetOwner.GetFaith.GetAdjective]崇拝"
+ feature_book_title_learning_hours:0 "$artifact_name_prefix_artifact_scope$般若心経"
+ feature_book_title_learning_golden_legend:0 "$artifact_name_prefix_artifact_scope$金色堂伝説"
+ feature_book_title_learning_anatomy:0 "腑分図"
+
+# medicine
+ feature_book_title_medicine_medicine:0 "$artifact_name_prefix_artifact_scope$医術写本"
+ feature_book_title_medicine_science:0 "$artifact_name_prefix_artifact_scope$標本集"
+ feature_book_title_medicine_galen:0 "$artifact_name_prefix_artifact_scope$医術写本"
+
+# alchemy
+ feature_book_title_alchemy_the_great_book_of_mercy:0 "安倍晴明"
+ feature_book_title_alchemy_the_book_of_seventy:0 "蘆屋道満"
+ feature_book_title_alchemy_mercury:0 "$artifact_name_prefix_artifact_scope$水銀論"
+ feature_book_title_alchemy_arsenic:0 "$artifact_name_prefix_artifact_scope$毒薬王"
+ feature_book_title_alchemy_gold:0 "$artifact_name_prefix_artifact_scope$金の製法"
+ feature_book_title_alchemy_silver:0 "$artifact_name_prefix_artifact_scope$銀の製法"
+
+# relationships
+ feature_book_title_soulmate:0 "$artifact_name_prefix_artifact_scope$献身"
+ feature_book_title_nemesis:0 "[Artifact.GetOwner.GetFirstName]の憤怒"
+ 
+# mystical animal
+ feature_book_title_mystical_animal:0 "白[Artifact.GetOwner.Custom('LocalAnimal')|U]"
+
+# cannibal
+ feature_book_title_cannibal_recipes:0 "食人書"
+
+# animals
+ feature_book_title_animals:0 "生類の森"
+ feature_book_title_animals_no_name:0 "$artifact_name_prefix_artifact_scope$生類論"
+
+# childhood
+ feature_book_title_childhood_one:0 "[Artifact.GetOwner.GetFirstNameNoTooltip]伝"
+ feature_book_title_childhood_two:0 "[Artifact.GetOwner.GetFirstNameNoTooltip]記"
+
+# family_epic
+ feature_book_title_family_epic_song:1 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]草紙"
+ feature_book_title_family_epic_chronicle:1 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]記"
+ feature_book_title_family_epic_poem:1 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]和歌集"
+ feature_book_title_family_epic_great_song:1 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]物語"
+ feature_book_title_family_epic_great_chronicle:1 "[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]紀"
+ feature_book_title_family_epic_great_poem:1 "新[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]和歌集"
+
+ propaganda_chronicle_name:0 "[ROOT.Char.GetDynastyHouseNameNoTooltip]実紀"
+ half_baked_propaganda_chronicle_name:0 "未完成の捏造年代記"
+
+# memory
+ recorded_memory_character:0 "[memory_participant.GetFirstNameNoTooltip]伝"
+ recorded_memory:1 "[ROOT.Char.GetFirstNameNoTooltip]記"

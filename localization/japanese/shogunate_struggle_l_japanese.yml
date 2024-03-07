@@ -1,0 +1,79 @@
+﻿l_japanese:
+
+ # Sengoku Struggle
+
+ shogunate_sengoku_struggle:0 "戦国の闘争"
+ shogunate_sengoku_struggle_desc:0 "$shogunate_sengoku_struggle$では、15世紀から16世紀の日本で100年以上にわたって繰り広げられた全国規模の内戦を描きます。戦国時代は日本の覇権をめぐり大名同士が相争った長きにわたる権力闘争の時代でした。また、この時代には下位の者が上位の者を実力で政治的・軍事的に打ち破ることもありました。"
+ struggle_shogunate_sengoku_phase_meritocracy_ordered:0 "下剋上/治世"
+ struggle_shogunate_sengoku_phase_meritocracy_ordered_desc:0 "下剋上はこの時代の特徴です。戦国時代には下位の者が上位の者を実力で政治的・軍事的に打ち破ることがありました。"
+ struggle_shogunate_sengoku_phase_meritocracy_chaotic:0 "下剋上/乱世"
+ struggle_shogunate_sengoku_phase_meritocracy_chaotic_desc:0 "下剋上はこの時代の特徴です。戦国時代には下位の者が上位の者を実力で政治的・軍事的に打ち破ることがありました。"
+ struggle_shogunate_sengoku_phase_unification_ordered:0 "天下統一/治世"
+ struggle_shogunate_sengoku_phase_unification_ordered_desc:0 "織田信長は天下統一を推進しました。信長の死後、その政策を継承した豊臣秀吉が1590年に日本の統一を達成しました。"
+ struggle_shogunate_sengoku_phase_unification_chaotic:0 "天下統一/乱世"
+ struggle_shogunate_sengoku_phase_unification_chaotic_desc:0 "織田信長は天下統一を推進しました。信長の死後、その政策を継承した豊臣秀吉が1590年に日本の統一を達成しました。"
+
+ shogunate_struggle.0001.t:0 "$shogunate_sengoku_struggle$"
+ shogunate_struggle.0001.desc:0 "中央政権の弱体化とそれに続く混乱で戦国時代が幕を開けた。日本の覇権をめぐり大名同士が相争う長く果てなき権力闘争の時代だ。"
+ shogunate_struggle.0001.a:0 "時は今"
+
+ game_concept_shogunate_sengoku_struggle:0 "$shogunate_sengoku_struggle$"
+ game_concept_shogunate_sengoku_struggle_desc:0 "$shogunate_sengoku_struggle_desc$"
+
+
+ # Kanto Struggle
+
+ shogunate_kanto_struggle:0 "関東の闘争"
+ shogunate_kanto_struggle_desc:0 "$shogunate_kanto_struggle$では、関東地方で応仁の乱以前から続く一連の争乱を描きます。鎌倉公方、関東管領、北条氏が三つ巴となり、関東の覇権をめぐって熾烈な闘争を繰り広げました。"
+ struggle_shogunate_kanto_phase_strife:0 "内部抗争"
+ struggle_shogunate_kanto_phase_strife_desc:0 "関東地方の武家は内紛に明け暮れています。"
+ struggle_shogunate_kanto_phase_solidarity:0 "一致団結"
+ struggle_shogunate_kanto_phase_solidarity_desc:0 "関東地方の武家は外敵に対して結束しています。"
+
+ shogunate_struggle.0003.t:0 "$shogunate_kanto_struggle$"
+ shogunate_struggle.0003.desc:0 "関東では長きにわたり鎌倉公方と関東管領が激しく争ってきた。応仁の乱に先立ち関東で勃発した享徳の乱は、両者の内紛を関東全域に拡大させた。\n\n"
+ shogunate_struggle.0003.desc.involved:0 "我が故郷への想いが揺らぐことはない。[ROOT.Char.GetHouse.GetNameNoTooltip]家は[ROOT.Char.GetFaith.HighGodName]の御加護でこの難局を乗り越え、宿願を果たすであろう。\n\n"
+ shogunate_struggle.0003.desc.interloper:0 "時は来た。この難局を利用し、運命を切り開くのだ。盤上の駒がよく見える。[ROOT.Char.GetHouse.GetNameNoTooltip]家の前進を阻むものなどない。\n\n"
+ shogunate_struggle.0003.desc.mottocall:0 "[ROOT.Char.GetHouse.GetMotto]！"
+ shogunate_struggle.0003.a:0 "運命をこの手に"
+
+ game_concept_shogunate_kanto_struggle:0 "$shogunate_kanto_struggle$"
+ game_concept_shogunate_kanto_struggle_desc:0 "$shogunate_kanto_struggle_desc$"
+
+
+ # Catalysts
+
+ catalyst_shogunate_win_against_liege:0 "主君に勝利した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_win_against_liege_desc:0 "[war_leader|E]として[liege|E]に[war|E]で勝利する"
+
+ catalyst_shogunate_start_any_war:0 "戦争を始めた[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_start_any_war_desc:0 "[duke|E][title_tier|E]以上の[ruler|E]同士が[war|E]を開始する"
+
+ catalyst_shogunate_convert_to_local_faith:0 "改宗した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_convert_to_local_faith_desc:0 "[ruler|E]が地元の[faith|E]に改宗する"
+
+ catalyst_shogunate_forced_conversion:0 "改宗させられた[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_forced_conversion_desc:0 "[ruler|E]が改宗を強制される"
+
+ catalyst_shogunate_historical_progress:0 "歴史上の進捗[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_historical_progress_desc:0 "歴史上の進捗"
+
+ catalyst_shogunate_claim_throne:0 "王位を請求した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_claim_throne_desc:0 "[liege|E]に対する[GetScheme('claim_throne').GetTypeName]に成功する"
+
+ catalyst_shogunate_unnatural_death:0 "殺された[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_unnatural_death_desc:0 "[ruler|E]が誰かに殺される"
+
+ catalyst_shogunate_gain_higher_title:0 "上位の称号を獲得した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_gain_higher_title_desc:0 "現在より[title_tier|E]の高い[primary_title|E]を獲得する"
+
+ catalyst_shogunate_grant_title:0 "称号を授与した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_grant_title_desc:0 "[title|E]を授与する"
+
+ catalyst_shogunate_vassalize:0 "属国化した[struggle_catalyst_catalyst|E]"
+ catalyst_shogunate_vassalize_desc:0 "[independent_ruler|E]を[vassalize|E]する"
+
+
+ # Parameters
+
+ struggle_parameter_shogunate_unlocks_sengoku_invasion_casus_belli:0 "天下統一の[casus_belli|E]をアンロック"

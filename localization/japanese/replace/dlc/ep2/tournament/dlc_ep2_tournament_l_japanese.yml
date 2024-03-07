@@ -1,0 +1,11 @@
+﻿l_japanese:
+
+ tournament_phase_melee:0 "巻狩り"
+ tournament_phase_archery:0 "流鏑馬"
+ tournament_phase_recital:0 "歌合わせ"
+ tournament_phase_joust:0 "一騎討ち"
+ tournament_phase_duel:0 "他流試合"
+ tournament_phase_wrestling:0 "相撲"
+ tournament_phase_board_game:0 "双六"
+ tournament_phase_horse_race:0 "競べ馬"
+ tournament_phase_ceremony:0 "式典"

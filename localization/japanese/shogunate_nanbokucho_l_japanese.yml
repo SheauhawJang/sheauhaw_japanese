@@ -1,0 +1,98 @@
+﻿l_japanese:
+
+ # Support the Northern Court
+
+ shogunate_support_northern_court_decision:0 "北朝方に味方する"
+ shogunate_support_northern_court_decision_desc:0 "北朝の天皇を奉じて南朝方と戦います。一度参戦すると中立の立場には戻れません。"
+ shogunate_support_northern_court_decision_desc_betrayer:0 "南朝を見限り、北朝方に寝返ります。しばらくは裏切り者とみなされるでしょう。"
+ shogunate_support_northern_court_decision_tooltip:0 "南北朝の争乱における自分の立場を変更します"
+ shogunate_support_northern_court_decision_confirm:0 "将軍のために！"
+
+ shogunate_nanbokucho.0004.t:0 "[supporter.GetHouse.GetNameNoTooltip][supporter.GetFirstNamePossessiveNoTooltip]の去就"
+ shogunate_nanbokucho.0004.desc_ally:0 "日和見を決め込んでいた[supporter.GetUIName]がようやく重い腰を上げた。これで我らの勝利は疑いない。"
+ shogunate_nanbokucho.0004.desc_enemy:0 "日和見を決め込んでいた[supporter.GetUIName]はあろうことか敵方についた。だが、その程度で揺らぐ我らではない。"
+ shogunate_nanbokucho.0004.desc_neutral:0 "慎重に機会を窺っていた[supporter.GetUIName]は北朝方に味方することを決めた。私もいずれは旗幟を鮮明にせねばなるまい。"
+ shogunate_nanbokucho.0004.desc_betrayer_ally:0 "[supporter.GetUIName]は南朝の行く末を見限り、我らに寝返った。小賢しい卑怯者だが、愚か者よりましだ。"
+ shogunate_nanbokucho.0004.desc_betrayer_enemy:0 "[supporter.GetUIName]はなにを血迷ったか我らを裏切り、北朝方に寝返った。不忠者には天罰が下るだろう。"
+ shogunate_nanbokucho.0004.desc_betrayer_neutral:0 "[supporter.GetUIName]は南朝を見限り、北朝方に寝返った。この乱世では最後に生き残ったものが勝者だ。"
+ shogunate_nanbokucho.0004.a:0 "昨日の敵は今日の友"
+ shogunate_nanbokucho.0004.b:0 "昨日の友は今日の敵"
+ shogunate_nanbokucho.0004.c:0 "これも乱世の習いか"
+
+ # Support the Southern Court
+
+ shogunate_support_southern_court_decision:0 "南朝方に味方する"
+ shogunate_support_southern_court_decision_desc:0 "南朝の天皇を奉じて北朝方と戦います。一度参戦すると中立の立場には戻れません。"
+ shogunate_support_southern_court_decision_desc_betrayer:0 "北朝を見限り、南朝方に寝返ります。しばらくは裏切り者とみなされるでしょう。"
+ shogunate_support_southern_court_decision_tooltip:0 "南北朝の争乱における自分の立場を変更します"
+ shogunate_support_southern_court_decision_confirm:0 "天皇のために！"
+
+ shogunate_nanbokucho.0005.t:0 "[supporter.GetHouse.GetNameNoTooltip][supporter.GetFirstNamePossessiveNoTooltip]の去就"
+ shogunate_nanbokucho.0005.desc_ally:0 "日和見を決め込んでいた[supporter.GetUIName]がようやく重い腰を上げた。これで我らの勝利は疑いない。"
+ shogunate_nanbokucho.0005.desc_enemy:0 "日和見を決め込んでいた[supporter.GetUIName]はあろうことか敵方についた。だが、その程度で揺らぐ我らではない。"
+ shogunate_nanbokucho.0005.desc_neutral:0 "慎重に機会を窺っていた[supporter.GetUIName]は南朝方に味方することを決めた。私もいずれは旗幟を鮮明にせねばなるまい。"
+ shogunate_nanbokucho.0005.desc_betrayer_ally:0 "[supporter.GetUIName]は北朝の行く末を見限り、我らに寝返った。小賢しい卑怯者だが、愚か者よりましだ。"
+ shogunate_nanbokucho.0005.desc_betrayer_enemy:0 "[supporter.GetUIName]はなにを血迷ったか我らを裏切り、南朝方に寝返った。不忠者には天罰が下るだろう。"
+ shogunate_nanbokucho.0005.desc_betrayer_neutral:0 "[supporter.GetUIName]は北朝を見限り、南朝方に寝返った。この乱世では最後に生き残ったものが勝者だ。"
+ shogunate_nanbokucho.0005.a:0 "昨日の敵は今日の友"
+ shogunate_nanbokucho.0005.b:0 "昨日の友は今日の敵"
+ shogunate_nanbokucho.0005.c:0 "これも乱世の習いか"
+
+ # Unify the Two Courts
+
+ shogunate_unify_two_courts_by_northern_court_decision:0 "南北朝を合一する"
+ shogunate_unify_two_courts_by_northern_court_decision_desc:0 "北朝主導のもと南朝と和約を結び、南北朝を合一します。南北朝時代は終わりを告げ、太平の世が訪れるでしょう。"
+ shogunate_unify_two_courts_by_northern_court_decision_tooltip:0 "南北朝の争乱を終わらせます"
+ shogunate_unify_two_courts_by_northern_court_decision_confirm:0 "和約は末代まで守られよう"
+
+ shogunate_unify_two_courts_by_southern_court_decision:0 "南北朝を合一する"
+ shogunate_unify_two_courts_by_southern_court_decision_desc:0 "南朝主導のもと北朝と和約を結び、南北朝を合一します。南北朝時代は終わりを告げ、太平の世が訪れるでしょう。"
+ shogunate_unify_two_courts_by_southern_court_decision_tooltip:0 "南北朝の争乱を終わらせます"
+ shogunate_unify_two_courts_by_southern_court_decision_confirm:0 "和約は末代まで守られよう"
+
+ shogunate_unify_two_courts_by_northern_court_decision_realm_size_trigger_desc:0 "自陣営が[GetTitleByKey('e_nmih_japan').GetName]の[de_jure|E]に属する[counties|E]を80%以上[hold|E]している (現在[EmptyScope.ScriptValue('shogunate_unify_two_courts_decision_northern_court_percent_value')|0]%)"
+ shogunate_unify_two_courts_by_southern_court_decision_realm_size_trigger_desc:0 "自陣営が[GetTitleByKey('e_nmih_japan').GetName]の[de_jure|E]に属する[counties|E]を80%以上[hold|E]している (現在[EmptyScope.ScriptValue('shogunate_unify_two_courts_decision_southern_court_percent_value')|0]%)"
+
+ shogunate_unify_two_courts_decision_kyoto_trigger_desc:0 "自陣営が京都（[GetTitleByKey('c_nmih_otagi').GetName]）を[hold|E]している"
+ shogunate_unify_two_courts_decision_kamakura_trigger_desc:0 "自陣営が鎌倉（[GetTitleByKey('c_nmih_kamakura').GetName]）を[hold|E]している"
+ shogunate_unify_two_courts_decision_dazaifu_trigger_desc:0 "自陣営が太宰府（[GetTitleByKey('c_nmih_mikasa').GetName]）を[hold|E]している"
+ shogunate_unify_two_courts_decision_taga_trigger_desc:0 "自陣営が多賀城（[GetTitleByKey('c_nmih_miyagi').GetName]）を[hold|E]している"
+
+ shogunate_unify_two_courts_decision_effect.1:0 "自陣営の[rulers|E]はあなたの[vassals|E]となります"
+ shogunate_unify_two_courts_decision_effect.2:0 "陣営の概念がなくなります"
+
+ # Unification of the Two Courts
+
+ shogunate_nanbokucho.0007.t:0 "南北朝合一"
+ shogunate_nanbokucho.0007.desc_northern_court_win:0 "南朝方は瓦解し、[northern_court_winner.GetUIName]主導のもと両朝の間に和約が結ばれた。"
+ shogunate_nanbokucho.0007.desc_southern_court_win:0 "北朝方は瓦解し、[southern_court_winner.GetUIName]主導のもと両朝の間に和約が結ばれた。"
+ shogunate_nanbokucho.0007.desc_nobody_win:0 "南北朝の争乱はうやむやのうちに終結し、両朝の間に和約が結ばれた。"
+ shogunate_nanbokucho.0007.desc_end_of_war:0 "\n\nここに南北朝の合一はなり、戦乱の時代は終わりを迎えた。この平和が太平の世の始まりとなるか、さらなる乱世までの一時の夢となるか、答えを知るものはいない。"
+ shogunate_nanbokucho.0007.a:0 "将軍万歳！"
+ shogunate_nanbokucho.0007.b:0 "天皇万歳！"
+ shogunate_nanbokucho.0007.c:0 "太平万歳！"
+
+ # Rise of the Third Force
+
+ shogunate_nanbokucho.0012.t:0 "第三勢力の台頭"
+ shogunate_nanbokucho.0012.desc:0 "北朝方を主導してきた[previous_holder.GetHouse.GetBaseNameNoTooltip][previous_holder.GetFirstNameNoTooltip]の一党は力を失ったが、[previous_holder.GetFirstNameNoTooltip]に取って代わった[new_holder.GetUIName]もまた南朝との対立を深めている。乱世はまだ終わりそうにない。"
+ shogunate_nanbokucho.0012.a:0 "これより先は我らの時代ぞ！"
+ shogunate_nanbokucho.0012.b:0 "誰であろうと逆賊は逆賊ぞ！"
+ shogunate_nanbokucho.0012.c:0 "負けたままでは終わらんぞ！"
+ shogunate_nanbokucho.0012.d:0 "最後に勝つのはこの我らぞ！"
+
+ # Collapse of the Third Force
+
+ shogunate_nanbokucho.0013.t:0 "第三勢力の崩壊"
+ shogunate_nanbokucho.0013.desc_with_leader:0 "[northern_court_leader.GetUIName]率いる北朝方と激しい主導権争いを繰り広げていた[previous_holder.GetHouse.GetBaseNameNoTooltip][previous_holder.GetFirstNameNoTooltip]の一党はついに崩壊に追い込まれた。北朝方の内紛は収まったが、乱世はまだ終わりそうにない。"
+ shogunate_nanbokucho.0013.desc_without_leader:0 "[northern_court_leader.GetUIName]率いる北朝方と激しい主導権争いを繰り広げていた一党はついに崩壊に追い込まれた。北朝方の内紛は収まったが、乱世はまだ終わりそうにない。"
+ shogunate_nanbokucho.0013.a:0 "残る敵は南朝方のみぞ！"
+ shogunate_nanbokucho.0013.b:0 "身内で争うとは愚か者め！"
+ shogunate_nanbokucho.0013.c:0 "我らは最後まで生き残るぞ！"
+
+ # Fate of the Shogunate
+
+ shogunate_nanbokucho.0014.t:0 "幕府の命運"
+ shogunate_nanbokucho.0014.desc:0 "幕府の命運は今や我が掌中にある。このまま幕府を滅ぼせば南北朝の争乱は終わりを迎えるだろう。だが、もしここで北朝方に寝返れば、北朝の天皇は私を新たな征夷大将軍に任じるに違いない。"
+ shogunate_nanbokucho.0014.a:0 "南朝の忠臣として今こそ南北朝を合一せん"
+ shogunate_nanbokucho.0014.b:0 "北朝の征夷大将軍……良い響きではないか"

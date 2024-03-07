@@ -1,0 +1,147 @@
+﻿l_japanese:
+
+#################################################
+#                                               #
+#  You MUST keep an asterisk in bm_hiddenXXXX.  #
+#                                               #
+#################################################
+
+ bm_hidden1180:0 "*"
+ bm_title_hidden1180:0 "以仁王の挙兵"
+ bm_hidden1180_desc:0 "保元の乱と平治の乱の後、伊勢平氏は朝廷での地位を高めた。棟梁の平清盛は太政大臣となり、その一族、いわゆる平家は多くの土地と富を集めた。平家のある者はこう公言したという。\n\n平家にあらずんば人にあらず。\n\nしかし、1170年代には平清盛と後白河法皇の対立が深刻化。平家を快く思わない者は陰謀を巡らせつつあった。"
+
+ bm_hidden1183:0 "*"
+ bm_title_hidden1183:0 "朝日将軍"
+ bm_hidden1183_desc:0 ""
+
+ bm_hidden1184:0 "*"
+ bm_title_hidden1184:0 "一ノ谷の戦い"
+ bm_hidden1184_desc:0 ""
+
+ bm_hidden1185:0 "*"
+ bm_title_hidden1185:0 "壇ノ浦の戦い"
+ bm_hidden1185_desc:0 ""
+
+# bm_hidden1185:0 "*"
+# bm_title_hidden1185:0 "義経挙兵"
+# bm_hidden1185_desc:0 ""
+
+ bm_hidden1189:0 "*"
+ bm_title_hidden1189:0 "奥州合戦"
+ bm_hidden1189_desc:0 ""
+
+ bm_hidden1199:0 "*"
+ bm_title_hidden1199:0 "十三人の合議制"
+ bm_hidden1199_desc:0 "源平の争乱を勝ち残ったのは鎌倉殿の源頼朝だったが、彼もまた呆気なく急死した。\n\n跡を継いだ源頼家はまだ若く、頼家を支えるため十三人の有力者たちからなる合議制が成立した。いわゆる十三人の合議制である。\n\nだが、その均衡は脆弱であり、早くも幕府の実権を巡って有力者たちの抗争が幕を開けた。"
+
+ bm_hidden1213:0 "*"
+ bm_title_hidden1213:0 "和田合戦"
+ bm_hidden1213_desc:0 ""
+
+ bm_hidden1221:0 "*"
+ bm_title_hidden1221:0 "承久の乱"
+ bm_hidden1221_desc:0 "十三人の合議制の一員だった北条義時は、苦難に満ちた血腥い抗争の末に最終的な勝者となった。\n\n鎌倉殿であり自らの甥であった源実朝が非業の死を遂げた現在、義時が幕府の実質的な最高権力者である。\n\nだが、一連の抗争に伴う混乱によって幕府に対する後鳥羽上皇の不満は高まっており、遂には兵を集めて義時追討を命じた。\n\nいわゆる承久の乱である。"
+
+ bm_hidden1247:0 "*"
+ bm_title_hidden1247:0 "宝治合戦"
+ bm_hidden1247_desc:0 ""
+
+ bm_hidden1274:0 "*"
+ bm_title_hidden1274:0 "元寇"
+ bm_hidden1274_desc:0 ""
+
+ bm_hidden1284:0 "*"
+ bm_title_hidden1284:0 "弘安徳政"
+ bm_hidden1284_desc:0 ""
+
+ bm_hidden1333:0 "*"
+ bm_title_hidden1333:0 "元弘の乱"
+ bm_hidden1333_desc:0 ""
+
+ bm_hidden1351:0 "*"
+ bm_title_hidden1351:0 "正平一統"
+ bm_hidden1351_desc:0 ""
+
+ bm_hidden1389:0 "*"
+ bm_title_hidden1389:0 "土岐康行の乱"
+ bm_hidden1389_desc:0 ""
+
+ bm_hidden1391:0 "*"
+ bm_title_hidden1391:0 "明徳の乱"
+ bm_hidden1391_desc:0 ""
+
+ bm_hidden1441:0 "*"
+ bm_title_hidden1441:0 "嘉吉の乱"
+ bm_hidden1441_desc:0 ""
+
+ bm_hidden1444:0 "*"
+ bm_title_hidden1444:0 "欧州普遍"
+ bm_hidden1444_desc:0 ""
+
+ bm_hidden1471:0 "*"
+ bm_title_hidden1471:0 "朝倉孝景寝返り"
+ bm_hidden1471_desc:0 ""
+
+ bm_hidden1473:0 "*"
+ bm_title_hidden1473:0 "両雄退場"
+ bm_hidden1473_desc:0 ""
+
+ bm_hidden1477:0 "*"
+ bm_title_hidden1477:0 "長尾景春の乱"
+ bm_hidden1477_desc:0 ""
+
+ bm_hidden1485:0 "*"
+ bm_title_hidden1485:0 "山城国一揆"
+ bm_hidden1485_desc:0 ""
+
+ bm_hidden1504:0 "*"
+ bm_title_hidden1504:0 "立河原の戦い"
+ bm_hidden1504_desc:0 ""
+
+ bm_hidden1515:0 "*"
+ bm_title_hidden1515:0 "ショヤコウジ兄弟の戦い"
+ bm_hidden1515_desc:0 ""
+
+ bm_hidden1520:0 "*"
+ bm_title_hidden1520:0 "等持院の戦い"
+ bm_hidden1520_desc:0 ""
+
+ bm_hidden1537:0 "*"
+ bm_title_hidden1537:0 "河東の乱"
+ bm_hidden1537_desc:0 ""
+
+ bm_hidden1542:0 "*"
+ bm_title_hidden1542:0 "月山富田城の戦い"
+ bm_hidden1542_desc:0 ""
+
+ bm_hidden1548:0 "*"
+ bm_title_hidden1548:0 "信濃侵攻"
+ bm_hidden1548_desc:0 ""
+
+ bm_hidden1551:0 "*"
+ bm_title_hidden1551:0 "大寧寺の変"
+ bm_hidden1551_desc:0 ""
+
+ bm_hidden1557:0 "*"
+ bm_title_hidden1557:0 "防長経略"
+ bm_hidden1557_desc:0 ""
+
+ bm_hidden1561:0 "*"
+ bm_title_hidden1561:0 "川中島の戦い"
+ bm_hidden1561_desc:0 ""
+
+ bm_hidden1570:0 "*"
+ bm_title_hidden1570:0 "姉川の戦い"
+ bm_hidden1570_desc:0 ""
+
+ bm_hidden1573:0 "*"
+ bm_title_hidden1573:0 "室町幕府滅亡"
+ bm_hidden1573_desc:0 ""
+
+ bm_hidden1600:0 "*"
+ bm_title_hidden1600:0 "関ヶ原の戦い"
+ bm_hidden1600_desc:0 "豊臣秀吉の没後、徳川家康の影響力は日に日に強まっていた。\n\n家康に対抗できる存在であった前田利家は没し、奉行の石田三成も佐和山城で蟄居に追い込まれる。\n\n領国で軍備を整えていた上杉景勝も上洛を命じられたが、景勝の重臣・直江兼続は家康に「直江状」を送って挑発した。\n\n家康は景勝討伐を決意し、諸将に出陣を命じた。"
+
+ bm_hidden1616:0 "*"
+ bm_title_hidden1616:0 "元和偃武"
+ bm_hidden1616_desc:0 ""

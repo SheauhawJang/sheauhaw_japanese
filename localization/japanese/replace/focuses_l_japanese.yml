@@ -1,0 +1,20 @@
+﻿l_japanese:
+
+ #Diplomacy
+ foreign_affairs_name:1 "人たらし"
+
+ #Martial
+ strategy_name:1 "軍師"
+ martial_chivalry_focus_short:0 "武士道"
+ martial_chivalry_focus_effect_desc:0 "武士道フォーカスの補正:"
+ chivalry_name:1 "侍"
+ 
+ #Intrigue
+ skulduggery_name:0 "忍"
+
+ #Stewardship
+ domain_name:1 "築城名人"
+ duty_name:1 "奉行"
+ 
+ #Learning
+ theology_name:1 "陰陽師"

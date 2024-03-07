@@ -1,0 +1,49 @@
+﻿l_japanese:
+
+ # Coat of Arms Designer
+
+ COA_DESIGNER_CATEGORY__shogunate_abstract:0 "家紋：抽象"
+ COA_DESIGNER_CATEGORY__shogunate_animals:0 "家紋：動物"
+ COA_DESIGNER_CATEGORY__shogunate_circles_spirals:0 "家紋：円"
+ COA_DESIGNER_CATEGORY__shogunate_faiths:0 "家紋：宗派"
+ COA_DESIGNER_CATEGORY__shogunate_manmade:0 "家紋：人工物"
+ COA_DESIGNER_CATEGORY__shogunate_nature:0 "家紋：自然"
+ COA_DESIGNER_CATEGORY__shogunate_special:0 "家紋：特殊"
+ COA_DESIGNER_CATEGORY__shogunate_tribal_seal:0 "家紋：部族の紋章"
+ COA_DESIGNER_CATEGORY__shogunate_writing:0 "家紋：文字"
+
+ # Ruler Designer
+
+ shogunate_japanese_1:0 "日本"
+ shogunate_ryukyu_1:0 "琉球"
+
+ frontend_yamato:0 "和室"
+
+ PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_01:0 "大ぶりな髷"
+ PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_02:0 "月並みな髷"
+ PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_03:0 "小ぶりな髷"
+
+ PORTRAIT_MODIFIER_custom_beards_japanese_beard_01:0 "和風のあご髭"
+ PORTRAIT_MODIFIER_custom_beards_japanese_moustache_03:0 "和風の口髭"
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_common:0 "庶民の着物"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_low:0 "武士の着物"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_high:0 "大名の着物"
+
+ PORTRAIT_MODIFIER_custom_clothes_male_armor_samurai_00_low:0 "大鎧 A"
+ PORTRAIT_MODIFIER_custom_clothes_male_armor_samurai_01_low:0 "大鎧 B"
+ PORTRAIT_MODIFIER_custom_clothes_male_armor_samurai_02_low:0 "通常鎧"
+
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_common:0 "庶民の小袖"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_low:0 "武士の小袖"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_high:0 "大名の小袖"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_monk_common:0 "尼僧の小袖"
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_suieikan:0 "垂纓冠"
+ PORTRAIT_MODIFIER_custom_headgear_male_helmet_samurai_01_low:0 "兜（大鎧）"
+ PORTRAIT_MODIFIER_custom_headgear_male_helmet_samurai_02_low:0 "兜（通常鎧）"
+
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_tabi_01_high:0 "足袋"
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_tabi_01_high:0 "足袋"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_samurai_01_low:0 "すね当て（大鎧）"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_samurai_02_low:0 "すね当て（通常鎧）"

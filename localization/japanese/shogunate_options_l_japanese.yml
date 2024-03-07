@@ -1,0 +1,16 @@
+﻿l_japanese:
+
+ # Character Naming Modes
+ 
+ shogunate_character_naming_mode_decision:0 "名前の呼び方を変える"
+ shogunate_character_naming_mode_decision_desc:0 "中世の日本には他人を本名（諱）で呼ぶことを避ける習慣がありました。この決断を実行すると名前を通称や官職名で呼ぶことができます。"
+ shogunate_character_naming_mode_decision_tooltip:0 "あらゆる人物の名前の表示形式を切り替えます"
+ shogunate_character_naming_mode_decision_effect:0 "表示形式を選ぶイベントが発生します"
+ shogunate_character_naming_mode_decision_confirm:0 "諱で呼ぶなど失礼千万"
+
+ shogunate_option.0001.t:0 "表示形式の選択"
+ shogunate_option.0001.desc:0 "ゲーム内に登場するすべての人物の名前が切り替わります。通称がない人物は代わりに名が表示されます。"
+ shogunate_option.0001.a:0 "姓＋名（織田信長）"
+ shogunate_option.0001.b:0 "姓＋通称（織田上総介）"
+ shogunate_option.0001.c:0 "姓＋通称＋名（織田上総介信長）"
+ shogunate_option.0001.d:0 "通称（上総介）"

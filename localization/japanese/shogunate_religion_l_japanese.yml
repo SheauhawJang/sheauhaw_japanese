@@ -1,0 +1,202 @@
+﻿l_japanese:
+
+ ## Shinto religion
+
+ shinto_religion:0 "神道"
+ shinto_religion_adj:0 "神道"
+ shinto_religion_adherent:0 "神道信者"
+ shinto_religion_adherent_plural:0 "神道信者"
+ shinto_religion_desc:0 "神道は日本列島で何百年にもわたって仏教や儒教と共存してきた日本古来の民族宗教である。"
+
+ # Shinto faith
+
+ shinto:0 "神道"
+ shinto_adj:0 "神道"
+ shinto_adherent:0 "神道信者"
+ shinto_adherent_plural:0 "神道信者"
+ shinto_desc:0 "ゲーム上、神道は伝統的な仏教を含む。日本の神道と仏教は西暦600年頃から互いに強く結びつき、当時の日本人は多くの概念を同じものとして信仰してきた。これを神仏習合と呼ぶ。"
+
+ shinto_high_god_name:0 "神仏"
+ shinto_high_god_name_possessive:0 "神仏"
+ shinto_high_god_alternate:0 "天道"
+ shinto_high_god_alternate_possessive:0 "天道"
+ shinto_house_of_worship:0 "寺社"
+ shinto_house_of_worship_plural:0 "寺社"
+ shinto_religious_symbol:0 "日輪"
+ shinto_religious_text:0 "経文"
+ shinto_religious_head_title:0 "法主"
+ shinto_religious_head_title_name:0 "教団"
+ shinto_devotee_male:0 "僧"
+ shinto_devotee_male_plural:0 "僧"
+ shinto_devotee_female:0 "尼"
+ shinto_devotee_female_plural:0 "尼"
+ shinto_alt_priest_term:0 "坊主"
+ shinto_divine_realm:0 "極楽"
+ shinto_negative_afterlife:0 "地獄"
+ shinto_death_god_name:0 "死霊"
+ shinto_death_god_name_possessive:0 "死霊"
+
+ # Ikko-shu faith
+
+ ikkoshu:0 "一向宗"
+ ikkoshu_adj:0 "一向宗"
+ ikkoshu_adherent:0 "一向宗門徒"
+ ikkoshu_adherent_plural:0 "一向宗門徒"
+ ikkoshu_desc:0 "一向宗（浄土真宗）は浄土信仰に基づく宗派であり、親鸞の教えを継承する。15世紀末から16世紀にかけて、一向一揆はしばしば大名の支配に抵抗した。"
+
+ ikkoshu_high_god_name:0 "阿弥陀如来"
+ ikkoshu_high_god_name_possessive:0 "阿弥陀如来"
+ ikkoshu_high_god_alternate:0 "親鸞上人"
+ ikkoshu_high_god_alternate_possessive:0 "親鸞上人"
+ ikkoshu_house_of_worship:0 "寺"
+ ikkoshu_house_of_worship_plural:0 "寺"
+ ikkoshu_religious_symbol:0 "念仏"
+ ikkoshu_religious_text:0 "教行信証"
+ ikkoshu_religious_head_title:0 "法主"
+ ikkoshu_religious_head_title_name:0 "教団"
+ ikkoshu_divine_realm:0 "極楽浄土"
+
+ # Hokke-shu faith
+
+ hokkeshu:0 "法華宗"
+ hokkeshu_adj:0 "法華宗"
+ hokkeshu_adherent:0 "法華宗信徒"
+ hokkeshu_adherent_plural:0 "法華宗信徒"
+ hokkeshu_desc:0 "法華宗（日蓮宗）は日蓮の教えに基づく宗派であり、法華経を最高無上とする。16世紀にはしばしば権力者や一向一揆、キリシタンと対立した。"
+
+ hokkeshu_high_god_name:0 "御仏"
+ hokkeshu_high_god_name_possessive:0 "御仏"
+ hokkeshu_high_god_alternate:0 "日蓮上人"
+ hokkeshu_high_god_alternate_possessive:0 "日蓮上人"
+ hokkeshu_house_of_worship:0 "寺"
+ hokkeshu_house_of_worship_plural:0 "寺"
+ hokkeshu_religious_symbol:0 "題目"
+ hokkeshu_religious_text:0 "法華経"
+ hokkeshu_religious_head_title:0 "法主"
+ hokkeshu_religious_head_title_name:0 "教団"
+
+ # Ryukyuan faith
+
+ ryukyuan:0 "琉球神道"
+ ryukyuan_adj:0 "琉球神道"
+ ryukyuan_adherent:0 "琉球神道信者"
+ ryukyuan_adherent_plural:0 "琉球神道信者"
+ ryukyuan_desc:0 "琉球神道は琉球諸島における伝統的な信仰体系である。一般的に祖先崇拝、生者と死者、神々や霊の関係を重んじることに特徴がある。"
+
+ ryukyuan_high_god_name:0 "御神"
+ ryukyuan_high_god_name_possessive:0 "御神"
+ ryukyuan_high_god_alternate:0 "祖霊"
+ ryukyuan_high_god_alternate_possessive:0 "祖霊"
+ ryukyuan_house_of_worship:0 "御嶽"
+ ryukyuan_house_of_worship_plural:0 "御嶽"
+ ryukyuan_religious_symbol:0 "太陽"
+ ryukyuan_religious_text:0 "おもろ"
+ ryukyuan_religious_head_title:0 "聞得大君"
+ ryukyuan_religious_head_title_name:0 "斎場御嶽"
+ ryukyuan_devotee_male:0 "神人"
+ ryukyuan_devotee_male_plural:0 "神人"
+ ryukyuan_devotee_female:0 "祝女"
+ ryukyuan_devotee_female_plural:0 "祝女"
+ ryukyuan_alt_priest_term:0 "神人"
+ ryukyuan_divine_realm:0 "後生"
+ ryukyuan_negative_afterlife:0 "後生"
+ ryukyuan_death_god_name:0 "シニマブイ"
+ ryukyuan_death_god_name_possessive:0 "シニマブイ"
+
+
+ ## Eastern Paganism religion
+
+ eastern_pagan_religion:0 "東方原始宗教"
+ eastern_pagan_religion_adj:0 "東方原始宗教"
+ eastern_pagan_religion_adherent:0 "東方原始宗教信者"
+ eastern_pagan_religion_adherent_plural:0 "東方原始宗教信者"
+ eastern_pagan_religion_desc:0 "東方原始宗教は東方における原始宗教の集合体を表し、その信仰はアニミズムやシャーマニズムを含む。"
+
+ # Ainu faith
+
+ ainu:0 "アイヌ"
+ ainu_adj:0 "アイヌ"
+ ainu_adherent:0 "アイヌ"
+ ainu_adherent_plural:0 "アイヌ"
+ ainu_desc:0 "アイヌは日本の神道と同じく自然界の万物にカムイ（霊または神）が宿ると信じている。両者の大きな違いは組織化の度合いであり、アイヌの信仰は天孫たる天皇ではなく、それぞれの部族長が中心である。アイヌは球形の海に島々が浮かんでいると考えており、その世界観は西に沈んだ太陽が東から昇るという事実に基づく。世界は巨大な魚の背中に乗っており、魚が動くと地震が起きると信じられている。"
+
+ ainu_high_god_name:0 "カムイ"
+ ainu_high_god_name_possessive:0 "カムイ"
+ ainu_high_god_alternate:0 "アイヌラックル"
+ ainu_high_god_alternate_possessive:0 "アイヌラックル"
+ ainu_house_of_worship:0 "祭壇"
+ ainu_house_of_worship_plural:0 "祭壇"
+ ainu_religious_symbol:0 "熊"
+ ainu_religious_text:0 "ユーカラ"
+ ainu_divine_realm:0 "カムイモシリ"
+ ainu_negative_afterlife:0 "ポクナモシリ"
+ ainu_death_god_name:0 "ウェンカムイ"
+ ainu_death_god_name_possessive:0 "ウェンカムイ"
+
+ # Nivkh faith
+
+# nivkh:0 "ニヴフ" # prevent duplicated definition with culture
+ nivkh_adj:0 "ニヴフ"
+ nivkh_adherent:0 "ニヴフ"
+ nivkh_adherent_plural:0 "ニヴフ"
+ nivkh_desc:0 "ニヴフはアニミズムとシャーマニズムからなる民族宗教を信仰している。ニヴフはサハリン島を横たわる巨大な獣、島に生えている木々を獣の腹の毛であると考えている。このような信仰は他のアニミズムにも多く見られ、世界が動物の上にあると信じる他の宗教と異なるものではない。"
+
+
+ ## Holy Sites
+
+ # City
+
+ holy_site_kyoto_name:0 "京都"
+ holy_site_osaka_name:0 "大坂"
+ holy_site_funai_name:0 "府内"
+ holy_site_nagasaki_name:0 "長崎"
+ holy_site_bonotsu_name:0 "坊津"
+ holy_site_hakodate_name:0 "函館"
+
+ # Temple
+
+ holy_site_enryakuji_name:0 "延暦寺"
+ holy_site_kofukuji_name:0 "興福寺"
+ holy_site_oyamagobo_name:0 "尾山御坊"
+ holy_site_ganshoji_name:0 "願証寺"
+ holy_site_sainenji_name:0 "西念寺"
+ holy_site_kuonji_name:0 "久遠寺"
+ holy_site_honmonji_name:0 "本門寺"
+ holy_site_hokekyoji_name:0 "法華経寺"
+ holy_site_gokokuji_name:0 "護国寺"
+
+ # Nature
+
+ holy_site_mt_fuji_name:0 "富士山"
+ holy_site_mt_koya_name:0 "高野山"
+ holy_site_akan_name:0 "阿寒湖"
+
+ # Place Name
+
+ holy_site_izumo_name:0 "出雲"
+ holy_site_kashima_name:0 "鹿島"
+ holy_site_aso_name:0 "阿蘇"
+ holy_site_kumano_name:0 "熊野"
+ holy_site_shimabara_name:0 "島原"
+ holy_site_osumi_name:0 "大隅"
+ holy_site_amami_name:0 "奄美大島"
+ holy_site_miyako_name:0 "宮古島"
+ holy_site_sapporo_name:0 "札幌"
+ holy_site_asahikawa_name:0 "旭川"
+ holy_site_shisuka_name:0 "敷香"
+ holy_site_otchishi_name:0 "落石"
+ holy_site_okha_name:0 "オハ"
+ holy_site_kamchatka_name:0 "カムチャツカ"
+
+
+ ## Court Chaplain
+
+ councillor_court_chaplain_shinto:0 "菩提寺住持"
+ councillor_court_chaplain_shinto_possessive:0 "菩提寺住持"
+
+ councillor_court_chaplain_ryukyuan_female_kingdom:0 "聞得大君"
+ councillor_court_chaplain_ryukyuan_female_kingdom_possessive:0 "聞得大君"
+ councillor_court_chaplain_ryukyuan_female_duchy:0 "祝女"
+ councillor_court_chaplain_ryukyuan_female_duchy_possessive:0 "祝女"
+ councillor_court_chaplain_ryukyuan_male:0 "神人"
+ councillor_court_chaplain_ryukyuan_male_possessive:0 "神人"

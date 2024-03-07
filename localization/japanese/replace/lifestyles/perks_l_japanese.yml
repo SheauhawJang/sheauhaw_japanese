@@ -1,0 +1,83 @@
+﻿l_japanese:
+ # Intrigue: Seduction
+ like_weed_in_a_garden_perk_name:0 "ねずみ算式"
+ unshackled_lust_perk_name:0 "本能のままに"
+ enticing_opportunity_perk_name:0 "逢瀬"
+ home_advantage_perk_name:0 "大奥"
+ # Intrigue: Schemer
+ digging_for_dirt_perk_name:0 "粗探し"
+ court_of_shadows_perk_name:0 "奥の院"
+ prepared_for_anything_perk_name:0 "患い無し"
+ a_job_done_right_perk_name:0 "仕事人"
+ twice_schemed_perk_name:0 "二つ目の計画"
+ schemer_perk_name:0 "忍"
+ # Intrigue: Dread
+ divine_retribution_perk_name:0 "天罰"
+ malice_implicit_perk_name:0 "物言わぬ恐怖"
+ #Learning_name: Theology Tree
+ faithful_perk_name:0 "信心"
+ zealous_proselytizer_perk_name:0 "狂信的説法者"
+ religious_icon_perk_name:0 "仏像"
+ prophet_perk_name:0 "説経節"
+ clerical_justifications_perk_name:0 "神職的正しさ"
+ church_and_state_perk_name:0 "神社と国"
+ radiant_perk_name:0 "光背"
+ theologian_perk_name:0 "陰陽師"
+ #Learning: Medicine Tree
+ know_thyself_perk_name:0 "己を知れ"
+ iron_constitution_perk_name:0 "鋼の肉体"
+ #Learning: Scholarship Tree
+ planned_cultivation_perk_name:0 "計画農法"
+ scholarly_circles_perk_name:0 "写経"
+ learn_on_the_job_perk_name:0 "習うより慣れよ"
+ sanctioned_loopholes_perk_name:0 "お墨付き"
+ #Stewardship: Domain Tree
+ tax_man_perk_male_name:0 "地頭"
+ tax_man_perk_female_name:0 "地頭"
+ defensive_measures_perk_name:0 "防御策"
+ organized_muster_rolls_perk_name:0 "足軽名簿"
+ cutting_corners_perk_name:0 "経費節減"
+ popular_figurehead_perk_name:0 "好評な表看板"
+ divided_attention_perk_name:0 "目配り"
+ architect_perk_name:0 "築城名人"
+ #Stewardship: Vassal & Liege Tree
+ meritocracy_perk_name:0 "下剋上"
+ likable_perk_name:0 "礼儀作法"
+ large_levies_perk_name:0 "大規模な農兵"
+ soon_forgiven_perk_name:0 "土下座"
+ toe_the_line_perk_name:0 "規則遵守"
+ honored_to_serve_perk_name:0 "忠臣"
+ administrator_perk_name:0 "奉行"
+ #Stewardship: Wealth Tree
+ heregeld_perk_name:0 "租庸調"
+ fearful_troops_perk_name:0 "鬼武者"
+ it_is_my_domain_perk_name:0 "領主は私だ"
+ #Diplomacy: Foreign Affairs Tree
+ defensive_negotiations_perk_name:0 "防衛的な交渉"
+ embassies_perk_name:0 "申次"
+ accomplished_forger_perk_name:0 "熟練した捏造者"
+ diplomat_perk_name:0 "人たらし"
+ #Diplomacy: Family Tree
+ groomed_to_rule_perk_name:0 "帝王学"
+ familial_familiar_perk_name:1 "家族の絆"
+ thicker_than_water_perk_name:0 "遠くの親戚"
+ friendly_counsel_perk_name:0 "忠言"
+ #Diplomacy: Majesty Tree
+ writing_history_perk_name:0 "歴史書"
+ #Martial: Strategy Tree
+ bellum_justum_perk_name:0 "勝てば官軍"
+ parthian_tactics_perk_name:0 "流鏑馬"
+ engineered_for_destruction_perk_name:0 "攻城技術"
+ strategist_perk_name:0 "軍師"
+ # Martial: Control
+ serve_the_crown_perk_name:0 "帝に仕えよ"
+ a_mans_home_perk_female_name:0 "家は城なり"
+ a_mans_home_perk_male_name:0 "家は城なり"
+ enduring_hardships_perk_name:0 "難局に耐えよ"
+ # Martial: Chivalry
+ loyalty_and_respect_perk_name:0 "御恩と奉公"
+ chivalric_dominance_perk_name:0 "武家政治"
+ never_back_down_perk_name:0 "背水の陣"
+ kingsguard_perk_name:0 "旗本"
+ peacemaker_perk_name:0 "仲裁人"
+ gallant_perk_name:0 "侍"

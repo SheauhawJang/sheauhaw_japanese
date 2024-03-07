@@ -1,0 +1,63 @@
+﻿l_japanese:
+
+ special_contract:2 "[Concept( 'feudal_contract', '朱印状' )|B|color_black|U]"
+ special_contract_none:0 "朱印状なし"
+ special_contract_scutage:0 "軍役の代銭納"
+ special_contract_march:0 "参勤の免除"
+ special_contract_palatinate:0 "宿老への任命"
+ special_contract_none_short:0 "なし"
+ special_contract_scutage_short:0 "代銭納"
+ special_contract_march_short:0 "参勤無用"
+ special_contract_palatinate_short:0 "宿老"
+
+ scutage:0 "軍役の代銭納"
+ scutage_enabled_short:0 "有効"
+ scutage_enabled:0 "$scutage$が$scutage_enabled_short$"
+ scutage_disabled_short:0 "無効"
+ scutage_disabled:1 "$scutage$が$scutage_disabled_short$"
+
+ religious_rights:0 "宗教的な権利"
+ religious_rights_none:0 "宗教上の庇護なし"
+ religious_rights_none_short:0 "なし"
+ religious_rights_protected:0 "宗教上の庇護"
+ religious_rights_protected_short:0 "庇護"
+
+ fortification_rights:0 "築城"
+ fortification_rights_none:0 "$fortification_rights$の御墨付なし"
+ fortification_rights_none_short:0 "御墨付なし"
+ fortification_rights_granted:0 "$fortification_rights$の許可"
+ fortification_rights_granted_short:0 "許可"
+
+ succession_rights:0 "庶子への分割相続"
+ succession_rights_default:0 "相続への不介入"
+ succession_rights_default_short:0 "不介入"
+ succession_rights_forced_partition:0 "分割相続の強制"
+ succession_rights_forced_partition_short:0 "強制"
+
+ coinage_rights:0 "私鋳銭"
+ coinage_rights_none:0 "$coinage_rights$の禁止"
+ coinage_rights_none_short:0 "禁止"
+ coinage_rights_granted:0 "$coinage_rights$の許可"
+ coinage_rights_granted_short:0 "許可"
+
+ war_declaration_rights:0 "私戦"
+ war_declaration_rights_default:0 "$war_declaration_rights$の御墨付なし"
+ war_declaration_rights_default_short:0 "御墨付なし"
+ war_declaration_rights_allowed:0 "$war_declaration_rights$の許可"
+ war_declaration_rights_allowed_short:0 "許可"
+
+ council_rights:0 "重臣"
+ council_rights_none:0 "一家臣"
+ council_rights_none_short:0 "一家臣"
+ council_rights_guaranteed:0 "$council_rights$への任命"
+ council_rights_guaranteed_short:0 "任命"
+
+ title_revocation_rights:0 "所領安堵"
+ title_revocation_rights_default:0 "$title_revocation_rights$の御墨付なし"
+ title_revocation_rights_default_short:0 "御墨付なし"
+ title_revocation_rights_protected:0 "$title_revocation_rights$の発給"
+ title_revocation_rights_protected_short:0 "発給"
+
+ VASSAL_CONTRACT_VASSAL_TITLE:0 "契約の変更\n#high [VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTierNoTooltip]の支配者\n[VassalContract.GetVassal.GetTitleTierName] [VassalContract.GetVassal.GetHouse.GetNameNoTooltip][VassalContract.GetVassal.GetFirstNameNoTooltip]#!"
+ CONTRACT_LIEGE_SIGNATURE:0 "[GetPlayer.Custom('shogunate_japanese_date')]年[GetCurrentDate.GetStringShortNoYear]\n[VassalContract.GetLiege.GetFirstNameNoTooltip]"
+ CONTRACT_VASSAL_SIGNATURE:0 "[VassalContract.GetVassal.GetHouse.GetBaseNameNoTooltip][VassalContract.GetVassal.GetFirstNameNoTooltip]殿"

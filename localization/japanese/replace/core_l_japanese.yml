@@ -1,0 +1,3 @@
+﻿l_japanese:
+ LOWBORN:0 ""
+ HOUSE_CADET_BRANCH_NAME_FORMAT:1 "[SelectLocalization( GetPlayer.IsValid, '$TITLE$', '$DYNASTY$' )]"

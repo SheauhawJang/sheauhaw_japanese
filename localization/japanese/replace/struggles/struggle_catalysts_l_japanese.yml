@@ -1,0 +1,7 @@
+﻿l_japanese:
+
+ ##################################################
+ # Catalyst Names
+
+ catalyst_usurp_title_desc:0 "$e_nmih_japan$の[de_jure|E]の一部である[title|E]を簒奪する"
+ catalyst_gain_claim_on_title_desc:1 "$e_nmih_japan$の[de_jure|E]内にある[title|E]の[claim|E]を取得する"

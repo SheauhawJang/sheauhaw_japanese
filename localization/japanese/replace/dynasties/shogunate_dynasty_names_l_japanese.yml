@@ -1,0 +1,404 @@
+﻿l_japanese:
+
+# Minamoto, Seiwa-Gen Ji, 源, 清和源氏
+ dynn_Shida:0 "志田"
+ dynn_Obu:0 "飫富"
+ dynn_Shingu:0 "新宮"
+ dynn_Tada:0 "多田"
+ dynn_Ike:0 "池"
+ dynn_Komatsu:0 "小松"
+ dynn_Sugimoto:0 "杉本"
+ dynn_Wada:0 "和田"
+ dynn_Oba:0 "大庭"
+ dynn_Nagao:0 "長尾"
+ dynn_Kajiwara:0 "梶原"
+ dynn_Kagawa:0 "香川"
+ dynn_Nagae:0 "長江"
+ dynn_Toyota:0 "豊田"
+ dynn_Matano:0 "俣野"
+ dynn_Dohi:0 "土肥"
+ dynn_Ninomiya:0 "二宮"
+ dynn_Sanada:0 "佐奈田"
+ dynn_Tuchiya:0 "土屋"
+ dynn_Kawamura:0 "河村"
+ dynn_Yasuda:0 "安田"
+ dynn_Henmi:0 "逸見"
+ dynn_Takeda:0 "武田"
+ dynn_Kagami:0 "加賀美"
+ dynn_Asari:0 "浅利"
+ dynn_Ichijo:0 "一条"
+ dynn_Itagaki:0 "板垣"
+ dynn_Akiyama:0 "秋山"
+ dynn_Nitta:0 "新田"
+ dynn_Satomi:0 "里見"
+ dynn_Yamana:0 "山名"
+ dynn_Ashikaga:0 "足利"
+ dynn_Sonoda:0 "薗田"
+ dynn_Ogo:0 "大胡"
+ dynn_Yamagami:0 "山上"
+ dynn_Sano:0 "佐野"
+ dynn_Asonuma:0 "阿曾沼"
+ dynn_Kimura:0 "木村"
+ dynn_Hayashi:0 "林"
+ dynn_Sanuki:0 "佐貫"
+ dynn_Nawa:0 "那波"
+ dynn_Ota:0 "大田"
+ dynn_Oyama:0 "小山"
+ dynn_Shimokobe:0 "下河辺"
+ dynn_Naganuma:0 "長沼"
+ dynn_Yuki:0 "結城"
+ dynn_Okawado:0 "大河戸"
+ dynn_Seki:0 "関"
+ dynn_Sato:0 "佐藤"
+ dynn_Bito:0 "尾藤"
+ dynn_Ito:0 "伊藤"
+ dynn_Tomura:0 "戸村"
+ dynn_Okuyama:0 "奥山"
+ dynn_Ajiki:0 "安食"
+ dynn_Akamatsu:0 "赤松"
+ dynn_Harada:0 "原田"
+ dynn_Mike:0 "美気"
+ dynn_Akizuki:0 "秋月"
+ dynn_Takahashi:0 "高橋"
+ dynn_Amakusa:0 "天草"
+ dynn_Itai:0 "板井"
+ dynn_Uku:0 "宇久"
+ dynn_Ouchi:0 "大内"
+ dynn_Migita:0 "右田"
+ dynn_Yoshiki:0 "吉敷"
+ dynn_Uno:0 "宇野"
+ dynn_Toida:0 "問田"
+ dynn_Washizu:0 "鷲頭"
+ dynn_Masunari:0 "益成"
+ dynn_Konoe:0 "近衞"
+ dynn_Kujo:0 "九条"
+ dynn_Watanabe:0 "渡辺"
+ dynn_Teshima:0 "豊島"
+ dynn_Hatakeyama:0 "畠山"
+ dynn_Oyamada:0 "小山田"
+ dynn_Inage:0 "稲毛"
+ dynn_Kawagoe:0 "河越"
+ dynn_ChichibuEdo:0 "江戸"
+ dynn_Kasai:0 "葛西"
+
+# Chiba, 千葉
+ dynn_Soma:0 "相馬"
+ dynn_Takeishi:0 "武石"
+ dynn_Osuga:0 "大須賀"
+ dynn_Kokubu:0 "国分"
+ dynn_To:0 "東"
+ dynn_Shiina:0 "椎名"
+ dynn_Sosa:0 "匝瑳"
+ dynn_Unakami:0 "海上"
+ dynn_Iwase:0 "岩瀬"
+ dynn_Kataoka:0 "片岡"
+ dynn_Usui:0 "臼井"
+ dynn_Makuwari:0 "馬加"
+ dynn_Hara:0 "原"
+ dynn_Chiba:0 "千葉"
+ dynn_Chida:0 "千田"
+
+ # Uesugi, 上杉
+ dynn_Ogigayatsu:0 "扇谷上杉"
+ dynn_YamauchiUesugi:0 "山内上杉"
+ dynn_Kobanawa:0 "庁鼻和上杉"
+ dynn_EchigoUesugi:0 "越後上杉"
+ dynn_InugakeUesugi:0 "犬懸上杉"
+
+ # Ashikaga, 足利
+ dynn_KamakuraAshikaga:0 "足利"
+
+ # Hosokawa, 細川
+ dynn_YashuHosokawa:0 "細川野州"
+ dynn_KeichoHosokawa:0 "細川京兆"
+ dynn_TenkyuHosokawa:0 "細川典厩"
+ dynn_IzumiKamiHosokawa:0 "細川和泉上"
+ dynn_IzumiShimoHosokawa:0 "細川和泉下"
+ dynn_SanshuHosokawa:0 "細川讃州"
+ dynn_BicchuHosokawa:0 "細川備中"
+ dynn_EnshuHosokawa:0 "細川遠州"
+ dynn_AwajiHosokawa:0 "細川淡路"
+ dynn_Nagaoka:0 "長岡"
+
+ # Imagawa, 今川
+ dynn_Oshika:0 "小鹿"
+ dynn_ImagawaSena:0 "瀬名"
+ dynn_Horikoshi:0 "堀越"
+ dynn_kambara:0 "蒲原"
+
+ # Takeda, 武田
+ dynn_AkiTakeda:0 "武田"
+ dynn_Mariyatsu:0 "真里谷"
+ dynn_Chonan:0 "庁南"
+ dynn_Oi:0 "大井"
+ dynn_Imai:0 "今井"
+ dynn_Anayama:0 "穴山"
+ dynn_Aburakawa:0 "油川"
+ dynn_Katsunuma:0 "勝沼"
+ dynn_Nishina:0 "仁科"
+ dynn_Katsurayama:0 "葛山"
+ dynn_Mochizuki:0 "望月"
+
+ # Hatakeyama, 畠山
+ dynn_Nihonmatsu:0 "二本松"
+ dynn_NotoHatakeyama:0 "畠山"
+ dynn_HatakeyamaSoshu:0 "畠山"
+ dynn_HatakeyamaBishu:0 "畠山"
+
+ # Murakami Genji [Minamoto], 村上源氏
+ dynn_Tsuchimikado:0 "土御門"
+ dynn_Koga:0 "久我"
+ dynn_Nakanoin:0 "中院"
+ dynn_Kitabatake:0 "北畠"
+ dynn_Namioka:0 "浪岡"
+ dynn_Rokujo:0 "六条"
+ dynn_Chigusa:0 "千種"
+ dynn_Okawachi:0 "大河内"
+ dynn_Tamaru:0 "田丸"
+ dynn_Kozukuri:0 "木造"
+ dynn_Hoshiai:0 "星合"
+
+ # Shimazu, 島津
+ dynn_ShimazuIzaku:0 "島津"
+ dynn_ShimazuSoshu:0 "島津"
+ dynn_ShimazuSasshu:0 "島津"
+ dynn_ShimazuHosshu:0 "島津"
+ dynn_ShimazuHongo:0 "北郷"
+ dynn_ShimazuIjuin:0 "伊集院"
+
+ # Kono, 河野
+ dynn_KonoYoshu:0 "河野予州"
+
+ # Akamatsu, 赤松
+ dynn_Arima:0 "有馬"
+ dynn_Shichijo:0 "七条"
+ dynn_Arita:0 "在田"
+ dynn_AkamatsuIzu:0 "赤松伊豆"
+ dynn_Ueno:0 "上野"
+ dynn_Okochi:0 "大河内"
+ dynn_Bessho:0 "別所"
+
+ # Yamana, 山名
+ dynn_Yamana:0 "山名"
+
+ # Ogasawara, 小笠原
+ dynn_Ogasawara:0 "小笠原"
+ dynn_Tomono:0 "伴野"
+ dynn_Ogasawara_Oi:0 "大井"
+
+ # Sasaki, 佐々木
+ dynn_Rokkaku:0 "六角"
+ dynn_Takashima:0 "高島"
+ dynn_Kaji:0 "加地"
+ dynn_Kyogoku:0 "京極"
+ dynn_Kutsuki:0 "朽木"
+ dynn_Shibata1:0 "新発田"
+ dynn_Taga:0 "多賀"
+ dynn_Amago:0 "尼子"
+ dynn_Oki:0 "隠岐"
+ dynn_Obara:0 "小原"
+ dynn_SasakiKagami:0 "鏡"
+ dynn_Isobe:0 "礒部"
+ dynn_Kurata:0 "倉田"
+ dynn_Togo:0 "東郷"
+ dynn_Akura:0 "飽浦"
+
+ # Nagao, 長尾
+ dynn_Nagao:0 "長尾"
+ dynn_Uesugi:0 "上杉"
+
+ # Muto, 武藤
+ dynn_Shoni:0 "少弐"
+ dynn_Daihoji:0 "大宝寺"
+ dynn_Kenmotsu:0 "監物"
+ dynn_Nabeshima:0 "鍋島"
+ dynn_Baba:0 "馬場"
+ dynn_Yokodake:0 "横岳"
+ dynn_Tsukushi:0 "筑紫"
+ dynn_Sagoshi:0 "砂越"
+ dynn_Shokoji:0 "松岡寺"
+ dynn_Kokyoji:0 "光教寺"
+ dynn_Ganshoji:0 "願証寺"
+ dynn_Honsenji:0 "本泉寺"
+ dynn_Choshoji:0 "超勝寺"
+ dynn_shokoji2:0 "勝興寺"
+
+ # Otomo, 大友
+ dynn_Tahara:0 "田原"
+ dynn_Tachibana:0 "立花"
+ dynn_Bekki:0 "戸次"
+ dynn_Shiga:0 "志賀"
+ dynn_Ichimata:0 "一萬田"
+ dynn_Yoshihiro:0 "吉弘"
+ dynn_Usuki:0 "臼杵"
+ dynn_Takahashi:0 "高橋"
+
+ # Matsura, 松浦
+ dynn_Hata:0 "波多"
+ dynn_Shisa:0 "志佐"
+ dynn_Tamanoura:0 "玉之浦"
+ dynn_Matsura:0 "平戸"
+ dynn_Yamashiro:0 "山代"
+ dynn_Arita:0 "有田"
+
+ # Daijo, 大掾
+ dynn_Namegata:0 "行方"
+ dynn_Kashima:0 "鹿島"
+ dynn_Makabe:0 "真壁"
+ dynn_Oguri:0 "小栗"
+ dynn_Shimazaki:0 "島崎"
+
+ # Murakami, 瀬戸内村上
+ dynn_Tokui:0 "得居"
+
+ # Utsunomiya, 宇都宮
+ dynn_Nimo:0 "武茂"
+ dynn_Aso:0 "麻生"
+ dynn_Shionoya:0 "塩谷"
+
+ # Date, 伊達
+ dynn_Rusu:0 "留守"
+ dynn_Date:0 "伊達"
+ dynn_Watari:0 "亘理"
+ dynn_Koyanagawa:0 "小梁川"
+ dynn_Oeda:0 "大條"
+ dynn_Senoue:0 "瀬上"
+ dynn_Shiroishi:0 "白石"
+ dynn_Kori:0 "桑折"
+ dynn_Iida:0 "飯田"
+ dynn_Ishida:0 "石田"
+ dynn_Yabe:0 "矢部"
+ dynn_Hienuki:0 "稗貫"
+
+ # Kasai, 葛西
+ dynn_Usuginu:0 "薄衣"
+ dynn_Hamada:0 "浜田"
+
+ # Shiba, 斯波
+ dynn_Osaki:0 "大崎"
+ dynn_OshuShiba:0 "斯波"
+ dynn_Mogami:0 "最上"
+ dynn_Tsugawa:0 "津川"
+ dynn_ShibaMori:0 "毛利"
+ dynn_Hachiya:0 "蜂屋"
+ dynn_Kurokawa:0 "黒川"
+ dynn_Narisawa:0 "成沢"
+ dynn_Tateoka:0 "楯岡"
+ dynn_Tendo:0 "天童"
+ dynn_Shimizu:0 "清水"
+
+ # Nanbu, 南部
+ dynn_Ishikawa:0 "石川"
+ dynn_Minami:0 "南"
+ dynn_Ishigame:0 "石亀"
+ dynn_Kemanai:0 "毛馬内"
+ dynn_Kita:0 "北"
+ dynn_Oura:0 "大浦"
+ dynn_Niida:0 "新田"
+ dynn_Nambu:0 "南部"
+ dynn_Hachinohe:0 "八戸"
+ dynn_Hakii:0 "波木井"
+
+ # Chosokabe, 長宗我部
+ dynn_Kira:0 "吉良"
+ dynn_Kosokabe:0 "香宗我部"
+ dynn_Kagawa:0 "香川"
+
+ # Miyoshi, 三好
+ dynn_Akutagawa:0 "芥川"
+ dynn_Sogo:0 "十河"
+ dynn_Atagi:0 "安宅"
+
+ # Ouchi, 大内
+ dynn_Washizu:0 "鷲頭"
+ dynn_Yata:0 "矢田"
+ dynn_Suetake:0 "末武"
+ dynn_Kurokawa:0 "黒川"
+ dynn_Egi:0 "江木"
+ dynn_Reizei:0 "冷泉"
+ dynn_Kakinami:0 "柿並"
+ dynn_Wanishi:0 "鰐石"
+
+ # Kikuchi, 菊池
+ dynn_Uto:0 "宇土"
+ dynn_Kai:0 "甲斐"
+ dynn_Akahoshi:0 "赤星"
+ dynn_Jo:0 "城"
+ dynn_Koshi:0 "合志"
+ dynn_Yamaga:0 "山鹿"
+
+ # Oda, 織田
+ dynn_Tsuda:0 "津田"
+
+ # Toki, 土岐
+ dynn_Iga:0 "伊賀"
+ dynn_Akechi:0 "明智"
+ dynn_Iwade:0 "岩手"
+ dynn_Tokihara:0 "土岐原"
+
+ # Yuki, 結城
+ dynn_Shirakawa:0 "白河"
+ dynn_Tagaya:0 "多賀谷"
+
+ # Matsudaira, 松平
+ dynn_Tokugawa:0 "徳川"
+
+ # Suwa, 諏訪
+ dynn_Chino:0 "茅野"
+ dynn_Takato:0 "高遠"
+ dynn_Fujisawa:0 "藤沢"
+
+ # Murakami, 村上
+ dynn_Yashiro:0 "屋代"
+ dynn_Muroga:0 "室賀"
+
+ # Ando, 安東
+ dynn_Shimokuni:0 "下国"
+
+ # Asakura, 朝倉
+ dynn_Nakano:0 "中野"
+ dynn_Matsuo:0 "松尾"
+ dynn_Abaga:0 "阿波賀"
+ dynn_Mukai:0 "向"
+ dynn_Sadagasaki:0 "三段崎"
+ dynn_Nakajima:0 "中島"
+ dynn_Kitanosho:0 "北庄"
+ dynn_Toba:0 "鳥羽"
+ dynn_Minowa:0 "三輪"
+ dynn_Yagi:0 "八木"
+ dynn_Shorenge:0 "勝蓮華"
+ dynn_Jishiin:0 "慈視院"
+ dynn_Hatano:0 "波多野"
+ dynn_Tsuchihashi:0 "土橋"
+ dynn_Ago:0 "安居"
+
+ # Misawa, 三沢
+ dynn_Nunohiro:0 "布広"
+
+ # Mori, 毛利
+ dynn_Kikkawa:0 "吉川"
+ dynn_Kobayakawa:0 "小早川"
+ dynn_Fukubara:0 "福原"
+ dynn_Saka:0 "坂"
+ dynn_Kitajo:0 "北条"
+ dynn_Mori1:0 "毛利"
+ dynn_Katsura:0 "桂"
+ dynn_Shiji:0 "志道"
+ dynn_Kuchiha:0 "口羽"
+
+ # Kikkawa, 吉川
+ dynn_Ichikawa:0 "市川"
+
+ # Kobayakawa, 小早川
+ dynn_Nomi:0 "乃美"
+
+ # Sano, 佐野
+ dynn_Kiryu:0 "桐生"
+
+ # Ashina, 葦名
+ dynn_Tomita:0 "富田"
+ dynn_Inawashiro:0 "猪苗代"
+
+ # Hatta, 八田 & Oda, 小田
+ dynn_Oda1:0 "小田"
+ dynn_Shishido:0 "宍戸"

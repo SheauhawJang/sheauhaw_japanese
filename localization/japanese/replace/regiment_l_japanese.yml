@@ -1,0 +1,26 @@
+﻿l_japanese:
+
+ # Base MaA
+ light_footmen:0 "精鋭槍足軽"
+ bowmen:0 "精鋭弓足軽"
+ crossbowmen:0 "精鋭鉄砲足軽"
+ armored_footmen:0 "徒武者"
+ armored_horsemen:0 "騎馬武者"
+
+ # Siege MaA
+ onager:0 "掻楯"
+ mangonel:0 "井楼"
+ trebuchet:0 "竹束"
+ bombard:0 "大筒"
+
+ # MaA Descriptions
+ light_footmen_flavor:1 "#F 熟練した足軽は敵を粉砕し士気をくじく、かけがえのない戦力である。#!"
+ bowmen_flavor:1 "#F 熟練した射手の矢が空を埋め尽くし、敵の先頭集団を壊滅させる。#!"
+ crossbowmen_flavor:0 "#F 再装填に時間はかかるが、火縄銃は扱いが容易で遠距離から大抵の鎧を貫くことができる。#!"
+ armored_footmen_flavor:1 "#F 重装備でよく訓練された徒武者は有象無象の雑兵を粉砕するのに特化している。#!"
+ armored_horsemen_flavor:0 "#F 重装備の騎馬武者は平地における戦の帰趨を決定する。#!"
+
+ onager_flavor:0 "#F 敵の矢を防ぐため楯を垣のように立て並べたもの。垣楯とも呼ばれる。#!"
+ mangonel_flavor:0 "#F 木や竹を組み合わせて作った櫓。城内の偵察や制圧に用いられる。#!"
+ trebuchet_flavor:0 "#F 竹を束ねて楯としたもの。火縄銃の弾丸を防ぐことができる。#!"
+ bombard_flavor:0 "#F 戦国時代における大砲。攻城戦や海戦に用いられる。#!"

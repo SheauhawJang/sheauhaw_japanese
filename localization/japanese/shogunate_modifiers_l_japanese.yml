@@ -1,0 +1,130 @@
+﻿l_japanese:
+
+ # Decision Modifiers
+
+ shogunate_seize_manor_modifier:0 "荘園の押領"
+ shogunate_seize_manor_modifier_desc:0 "この人物は寺社が管理する荘園から年貢や田畑を収奪した。"
+
+ shogunate_build_temple_modifier:0 "寺社の建立"
+ shogunate_build_temple_modifier_desc:0 "この人物は広く資金を募り、神社や寺院を建立・再建した。"
+
+ shogunate_mobilize_follower_modifier:0 "信徒の動員"
+ shogunate_mobilize_follower_modifier_desc:0 "この人物は寺社の力を借り、信徒を兵として戦に駆り出した。"
+
+ shogunate_pray_modifier:0 "祈祷"
+ shogunate_pray_modifier_desc:0 "この人物は健康と長寿を願い、神仏に祈りを捧げた。"
+
+ shogunate_curse_modifier:0 "呪詛"
+ shogunate_curse_modifier_desc:0 "この人物は秘術を使い、敵対する者に災いをもたらした。"
+
+ shogunate_enlightenment_modifier:0 "天啓"
+ shogunate_enlightenment_modifier_desc:0 "この人物は荒行や瞑想を通じて新たな境地に到達した。"
+
+ # Interaction Modifiers
+
+ shogunate_forced_divorce_modifier:0 "離縁の強制"
+ shogunate_forced_divorce_modifier_desc:0 "この人物は配偶者に離縁を強制した。"
+
+ # Bookmark Modifiers
+
+ shogunate_surprise_attack_modifier:0 "奇襲"
+ shogunate_surprise_attack_modifier_desc:0 "この人物は奇襲を仕掛けようとしている。"
+
+ shogunate_historical_reinforcement_opinion:0 "出陣準備"
+ shogunate_historical_reinforcement_opinion_desc:0 "この人物は出陣の準備で忙しい。"
+
+ # Target Modifiers
+
+ shogunate_global_coalition_target_modifier:0 "包囲網の標的"
+ shogunate_global_coalition_target_modifier_desc:0 "この人物は包囲網の標的である。"
+
+ # Nanboku-cho Period Modifiers
+
+ shogunate_betrayer_modifier:0 "裏切り者"
+ shogunate_betrayer_modifier_desc:0 "この人物は他の陣営に寝返った。"
+
+ shogunate_nanbokucho_unifier_opinion:0 "南北朝合一の立役者"
+ shogunate_nanbokucho_unifier_opinion_desc:0 "この人物は南北朝合一を主導した。"
+
+ shogunate_nanbokucho_leader_5_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_5_times_modifier_desc:0 "この人物は自勢力の5倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_10_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_10_times_modifier_desc:0 "この人物は自勢力の10倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_15_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_15_times_modifier_desc:0 "この人物は自勢力の15倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_20_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_20_times_modifier_desc:0 "この人物は自勢力の20倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_30_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_30_times_modifier_desc:0 "この人物は自勢力の30倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_40_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_40_times_modifier_desc:0 "この人物は自勢力の40倍を超える支持者に支えられている。"
+
+ shogunate_nanbokucho_leader_50_times_modifier:0 "陣営の指導者"
+ shogunate_nanbokucho_leader_50_times_modifier_desc:0 "この人物は自勢力の50倍を超える支持者に支えられている。"
+
+ # AI Personality Modifiers
+
+ # Oda Nobunaga
+ shogunate_personality_10029120_modifier:0 "三英傑"
+ shogunate_personality_10029120_modifier_desc:0 "この人物は戦国時代を天下統一に導くかもしれない。"
+
+ # Toyotomi Hideyoshi
+ shogunate_personality_10029400_modifier:0 "三英傑"
+ shogunate_personality_10029400_modifier_desc:0 "この人物は戦国時代を天下統一に導くかもしれない。"
+
+ # Tokugawa Ieyasu
+ shogunate_personality_10024006_modifier:0 "三英傑"
+ shogunate_personality_10024006_modifier_desc:0 "この人物は戦国時代を天下統一に導くかもしれない。"
+
+ # Date Masamune
+ shogunate_personality_10001035_modifier:0 "戦国の英雄"
+ shogunate_personality_10001035_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Hojo Ujiyasu
+ shogunate_personality_10016004_modifier:0 "戦国の英雄"
+ shogunate_personality_10016004_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Takeda Shingen
+ shogunate_personality_10020010_modifier:0 "戦国の英雄"
+ shogunate_personality_10020010_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Imagawa Yoshimoto
+ shogunate_personality_10023010_modifier:0 "戦国の英雄"
+ shogunate_personality_10023010_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Uesugi Kenshin
+ shogunate_personality_10032011_modifier:0 "戦国の英雄"
+ shogunate_personality_10032011_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Ashikaga Yoshiaki
+ shogunate_personality_10040042_modifier:0 "戦国の英雄"
+ shogunate_personality_10040042_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Honganji Kennyo
+ shogunate_personality_10042210_modifier:0 "戦国の英雄"
+ shogunate_personality_10042210_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Mori Motonari
+ shogunate_personality_10056004_modifier:0 "戦国の英雄"
+ shogunate_personality_10056004_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Miyoshi Nagayoshi
+ shogunate_personality_10059007_modifier:0 "戦国の英雄"
+ shogunate_personality_10059007_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Chosokabe Motochika
+ shogunate_personality_10059104_modifier:0 "戦国の英雄"
+ shogunate_personality_10059104_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Shimazu Yoshihisa
+ shogunate_personality_10060024_modifier:0 "戦国の英雄"
+ shogunate_personality_10060024_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"
+
+ # Ryuzoji Takanobu
+ shogunate_personality_10068320_modifier:0 "戦国の英雄"
+ shogunate_personality_10068320_modifier_desc:0 "この人物は戦国時代に大きな足跡を残すかもしれない。"

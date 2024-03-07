@@ -1,0 +1,260 @@
+﻿l_japanese:
+
+ shogunate_artifact_weapon_name:0 "[SCOPE.Custom('ShogunateArtifactWeaponName')|U]"
+ shogunate_artifact_weapon_name_owner_name:0 "[owner.GetFirstNameNoTooltip][SCOPE.Custom('ShogunateArtifactWeaponNamePostfix')|U]"
+ shogunate_artifact_weapon_name_inspiration_owner_name:0 "[inspiration_owner.GetFirstNameNoTooltip][SCOPE.Custom('ShogunateArtifactWeaponNamePostfix')|U]"
+ shogunate_artifact_weapon_name_owner_location:0 "[owner.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip][SCOPE.Custom('ShogunateArtifactWeaponNamePostfix')|U]"
+
+ artifact_name_prefix_inspiration_owner_name:0 "[SCOPE.Custom('ShogunateArtifactInspirationOwnerNamePostfix')|U]"
+ artifact_name_prefix_owner_dynasty:0 "[owner.GetDynasty.GetBaseNameNoTooltip]の"
+
+ shogunate_artifact_weapon_name_sword_dagger_1:0 "大小"
+ shogunate_artifact_weapon_name_sword_dagger_2:0 "鎧割"
+ shogunate_artifact_weapon_name_sword_dagger_3:0 "霞丸"
+ shogunate_artifact_weapon_name_sword_dagger_4:0 "狐丸"
+
+ shogunate_artifact_weapon_name_axe_hammer_mace_1:0 "金砕棒"
+ shogunate_artifact_weapon_name_axe_hammer_mace_2:0 "鬼丸"
+ shogunate_artifact_weapon_name_axe_hammer_mace_3:0 "兜砕"
+ shogunate_artifact_weapon_name_axe_hammer_mace_4:0 "星割"
+
+ shogunate_artifact_weapon_name_spear_1:0 "長槍"
+ shogunate_artifact_weapon_name_spear_2:0 "越前号"
+ shogunate_artifact_weapon_name_spear_3:0 "大黒"
+ shogunate_artifact_weapon_name_spear_4:0 "左近"
+
+ shogunate_artifact_weapon_name_postfix_default:0 ""
+ shogunate_artifact_weapon_name_postfix_maru:0 "丸"
+ shogunate_artifact_weapon_name_postfix_go:0 "号"
+
+ shogunate_artifact_name_prefix_inspiration_owner_name_default:0 "[inspiration_owner.GetFirstNameNoTooltip]"
+ shogunate_artifact_name_prefix_inspiration_owner_name_made_by:0 "[inspiration_owner.GetFirstNameNoTooltip]作 "
+
+ #########
+ # Types #
+ #########
+
+ artifact_type_helmet:0 "兜"
+ artifact_type_primary_armament:0 "得物"
+ artifact_type_armor:0 "具足"
+ artifact_type_regalia:0 "至宝"
+ artifact_type_trinket:0 "家宝"
+ artifact_type_wall_big:0 "掛物"
+ artifact_type_throne:0 "玉座"
+ artifact_type_sculpture:0 "置物"
+ artifact_type_book:0 "書物"
+ artifact_type_elixir:0 "霊薬"
+
+ ##########
+ # Metals #
+ ##########
+
+ metal_wrought_iron:0 "鋼"
+ metal_folded_iron:0 "玉鋼"
+
+ metal_gold:0 "金"
+ metal_electrum:0 "金"
+ metal_silver:0 "銀"
+ metal_niello:0 "銀"
+ metal_brass:0 "銅"
+ metal_pewter:0 "青銅"
+
+ feature_blade_wrought_iron:0 "鋼"
+ feature_blade_folded_iron:0 "玉鋼"
+
+ #########
+ # Woods #
+ #########
+
+ wood_ash:0 "けやき"
+ wood_oak:0 "ひのき"
+
+ ##########
+ # Cloths #
+ ##########
+
+ cloth_wool:0 "綿布"
+ cloth_lambswool:0 "絹"
+
+ ########
+ # Gems #
+ ########
+
+ # Common Everywhere
+ gem_rock_crystal:0 "水晶"
+ gem_rock_crystal_plural:0 "水晶"
+ gem_jet:0 "琥珀"
+ gem_jet_plural:0 "琥珀"
+ gem_agate:0 "珊瑚"
+ gem_agate_plural:0 "珊瑚"
+ gem_onyx:0 "真珠"
+ gem_onyx_plural:0 "真珠"
+
+ # Uncommon Everywhere
+ gem_garnet:0 "黄玉"
+ gem_garnet_plural:0 "黄玉"
+ gem_jasper:0 "碧玉"
+ gem_jasper_plural:0 "碧玉"
+ gem_zircon:0 "翡翠"
+ gem_zircon_plural:0 "翡翠"
+
+ # Rare
+ gem_sapphire:0 "蒼玉"
+ gem_sapphire_plural:0 "蒼玉"
+ gem_ruby:0 "紅玉"
+ gem_ruby_plural:0 "紅玉"
+ gem_emerald:0 "翠玉"
+ gem_emerald_plural:0 "翠玉"
+
+ ############
+ # Patterns #
+ ############
+
+ feature_decoration_pattern_roses:0 "桜の花"
+ feature_decoration_pattern_floral:0 "花柄"
+ feature_decoration_pattern_geometric:0 "幾何学模様"
+ feature_decoration_pattern_wolf:0 "亀"
+ feature_decoration_pattern_beasts:0 "神獣"
+ feature_decoration_pattern_religion:0 "宗教的象徴"
+ feature_decoration_pattern_quotes:0 "感動的な言葉"
+ feature_decoration_pattern_eschatology:0 "末法の世"
+ feature_decoration_pattern_knots:0 "石畳模様"
+ feature_decoration_pattern_animals:0 "鳥獣模様"
+ feature_decoration_pattern_bird:0 "鶴"
+
+ ############################
+ # Weapon Descriptions      #
+ ############################
+
+ # Swords
+ artifact_sword_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_longsword_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_sword_description:3 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[newly_created_artifact.GetFeatureText( 'blade_metal' )]の太刀。[newly_created_artifact.Custom('ArtifactSwordDecoration')]"
+
+ # Daggers
+ artifact_dagger_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_dagger_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[newly_created_artifact.GetFeatureText( 'blade_metal' )]の脇差。[newly_created_artifact.Custom('ArtifactDaggerDecoration')]"
+
+ # Axes
+ artifact_axe_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_axe_description:2 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した戦斧。[newly_created_artifact.Custom('ArtifactAxeHeadDescription')][newly_created_artifact.Custom('ArtifactAxeHaftDescription')]"
+
+ # Hammers
+ artifact_hammer_name:1 "$shogunate_artifact_weapon_name$"
+ artifact_hammer_description:3 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した戦鎚。[newly_created_artifact.Custom('ArtifactHammerHeadDescription')][newly_created_artifact.Custom('ArtifactHammerShaftDescription')]"
+
+ # Spears
+ artifact_spear_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_spear_description:2 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した長槍。[newly_created_artifact.Custom('ArtifactSpearHeadDescription')][newly_created_artifact.Custom('ArtifactSpearShaftDescription')]"
+
+ # Maces
+ artifact_mace_name:0 "$shogunate_artifact_weapon_name$"
+ artifact_mace_description:2 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した戦棍。[newly_created_artifact.Custom('ArtifactMaceHeadDescription')][newly_created_artifact.Custom('ArtifactMaceHandleDescription')]"
+
+ ############################
+ # Wearable Descriptions    #
+ ############################
+
+ # Armor
+ artifact_armor_mail_lowercase:0 "腹巻"
+ artifact_armor_mail_uppercase:0 "腹巻"
+ artifact_armor_plate_lowercase:0 "当世具足"
+ artifact_armor_plate_uppercase:0 "当世具足"
+ artifact_armor_scale_lowercase:0 "胴丸"
+ artifact_armor_scale_uppercase:0 "胴丸"
+ artifact_armor_lamellar_lowercase:0 "大鎧"
+ artifact_armor_lamellar_uppercase:0 "大鎧"
+ artifact_armor_laminar_lowercase:0 "大鎧"
+ artifact_armor_laminar_uppercase:0 "大鎧"
+ artifact_armor_brigandine_lowercase:1 "南蛮胴"
+ artifact_armor_brigandine_uppercase:1 "南蛮胴"
+ artifact_armor_shield_lowercase:0 "盾"
+ artifact_armor_shield_uppercase:0 "盾"
+
+ feature_artifact_armor_descriptor_silver_inlaid:0 "白銀の"
+ feature_artifact_armor_descriptor_gold_inlaid:0 "黄金の"
+ feature_artifact_armor_descriptor_bronze_inlaid:0 "青銅色の"
+
+ # Regalia
+ artifact_regalia_name:0 "$artifact_name_prefix$印判"
+ artifact_regalia_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[SCOPE.Custom('ArtifactArticleWealth')]印判。公文書に用いられるだけでなく、地位の象徴でもある。"
+
+ # Crowns
+ artifact_crown_name:0 "$artifact_name_prefix$兜"
+ artifact_crown_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[SCOPE.Custom('ArtifactArticleWealth')]兜。地金に[newly_created_artifact.GetFeatureText( 'decoration_material_wire' )]を用いて[newly_created_artifact.GetFeatureText( 'crown_decoration' )]。"
+
+ # Brooches
+ artifact_brooch:0 "陣羽織"
+ artifact_brooch_name:0 "$artifact_name_prefix$陣羽織"
+ artifact_brooch_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した[SCOPE.Custom('ArtifactArticleWealth')]陣羽織。"
+
+ # Necklace
+ artifact_necklace_name:1 "[newly_created_artifact.GetFeatureText( 'decoration_material_gem' )|U]と[newly_created_artifact.GetFeatureText( 'decoration_material_wire' )|U]のかんざし"
+ artifact_necklace_description:1 "[SCOPE.Custom('ArtifactQuality')]職人芸が生み出した繊細かつ[SCOPE.Custom('ArtifactArticleWealth')]かんざし。地金は[newly_created_artifact.GetFeatureText( 'decoration_material_wire' )]で豪華な[newly_created_artifact.GetFeatureText( 'decoration_material_gem' )]が特徴的。"
+
+
+
+ ## Special Artifacts
+
+ morin_khuur_ornament_name:0 "飾り馬"
+ animal_ring_name:0 "虎の印判"
+ ostrich_shell_necklace_name:0 "貝殻の首飾り"
+ pilgrimage_figurine_name:0 "阿弥陀如来像"
+ saint_margaret_fingernails_name:0 "一遍上人の爪"
+ seahorse_brooch_name:0 "龍の落とし子のかんざし"
+
+ leopard_hat_name:0 "獅子の頭"
+ kurgan_ornament_name:0 "木彫りの熊"
+ kurgan_saddle_name:0 "巴御前の鞍"
+ naked_tapestry_name:0 "春画"
+
+ frogspawn_jar_name:0 "桶一杯の蛙の卵"
+ beaver_book_name:1 "龍宮城"
+ crocodile_tapestry_name:0 "因幡の白兎の掛軸"
+ mountain_rock_name:0 "庭石"
+
+ reichskrone_name:0 "異国の冠"
+ nikephoros_crown_name:0 "異国の冠"
+ skull_cap_charlemagne_name:0 "源義朝の髑髏"
+ papal_tiara_name:0 "異国の冠"
+ essen_crown_name:0 "異国の冠"
+ monomachus_crown_name:1 "異国の冠"
+ edmund_head_name:1 "平将門の首"
+ dhammapada_name:0 "法句経"
+ excalibur_name:0 "大王の鉄剣"
+ vinaya_pitaka_name:0 "律蔵"
+ sutta_pitaka_name:0 "経蔵"
+ abhidhamma_pitaka_name:0 "論蔵"
+
+ tiny_sculpture_trinket_name:0 "小型の彫刻"
+ tiny_box_trinket_name:0 "小箱"
+ tiny_chest_trinket_name:0 "小櫃"
+ tiny_cabinet_trinket_name:0 "戸棚の模型"
+ tiny_throne_trinket_name:0 "玉座の模型"
+
+ artifact_title_lion:0 "獅子の"
+ artifact_title_dragon:0 "龍の"
+ artifact_title_raven:0 "大鴉の"
+
+ gilded_rats_tail:0 "黄金虫"
+ quail_eggshell_gem:0 "千代紙"
+ stained_glass_shard:0 "おみくじ"
+ xylospongium:0 "玉虫"
+ st_davids_morsel:1 "蛇の抜け殻"
+ platypus_figurine:0 "干支の置物"
+ terracotta_toy_fowl:0 "達磨"
+ stewardship_general.2001.artifact.potsherd_holy:0 "御守"
+ small_bell_beaker:0 "神札"
+ serpentine_budai:0 "七福神"
+ mythical_creature_horn:0 "麒麟の角"
+ mythical_creature_figurine:0 "鶴と亀の置物"
+ st_davids_taper:1 "破魔矢"
+ jira_stick:0 "宝船"
+ lucky_coin:0 "大判小判"
+ lavender_jade_pendant:0 "松竹梅の盃"
+ sekhmet_ring:0 "玉手箱"
+ scarab_brooch:0 "打出の小槌"
+
+ # /dlc/fp2/dlc_fp2_artifacts_l_english.yml
+ fp2_2p_chess_board:0 "幸運の双六盤"
+ fp2_4p_chess_board:0 "四人用双六盤"

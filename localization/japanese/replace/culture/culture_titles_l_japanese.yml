@@ -1,0 +1,159 @@
+﻿l_japanese:
+
+ # Shogunate basic names (for translation)
+
+ shogunate_spouse_male:0 "の殿方"
+ shogunate_spouse_female:0 "の奥方"
+
+ shogunate_barony:0 "城"
+ shogunate_county:0 "郡"
+ shogunate_duchy:0 "国"
+ shogunate_kingdom:0 "地方"
+ shogunate_empire:0 "幕府"
+
+ shogunate_barony_republic:0 "町"
+ shogunate_empire_republic:0 "政府"
+
+ shogunate_barony_theocracy:0 "寺社領"
+ shogunate_empire_theocracy:0 "教団"
+
+ shogunate_empire_mercenary:0 "衆"
+
+ shogunate_baron:0 "城主"
+ shogunate_count:0 "国衆"
+ shogunate_duke:0 "大名"
+ shogunate_king:0 "大大名"
+ shogunate_emperor:0 "征夷大将軍"
+
+ shogunate_baron_republic:0 "年寄"
+ shogunate_count_republic:0 "年寄"
+ shogunate_duke_republic:0 "大年寄"
+ shogunate_king_republic:0 "棟梁"
+ shogunate_emperor_republic:0 "総裁"
+
+ shogunate_baron_theocracy:0 "住持"
+ shogunate_count_theocracy:0 "僧正"
+ shogunate_duke_theocracy:0 "大僧正"
+ shogunate_king_theocracy:0 "法主"
+ shogunate_emperor_theocracy:0 "大法主"
+
+ shogunate_baron_mercenary:0 "頭領"
+ shogunate_count_mercenary:0 "頭領"
+ shogunate_duke_mercenary:0 "頭領"
+ shogunate_king_mercenary:0 "頭領"
+ shogunate_emperor_mercenary:0 "頭領"
+
+ prince_empire:0 "若君"
+ princess_empire:0 "姫君"
+
+
+ # General names
+
+ barony:0 "$shogunate_barony$"
+ county:0 "$shogunate_county$"
+ duchy:0 "$shogunate_duchy$"
+ kingdom:0 "$shogunate_kingdom$"
+ empire:0 "$shogunate_empire$"
+
+ baron:0 "$shogunate_baron$"
+ baron_female:0 "$baron$"
+ baron_plural:0 "$baron$"
+
+ count:0 "$shogunate_count$"
+ count_female:0 "$count$"
+ count_plural:0 "$count$"
+
+ duke:0 "$shogunate_duke$"
+ duke_female:0 "$duke$"
+ duke_plural:0 "$duke$"
+
+ king:0 "$shogunate_king$"
+ king_female:0 "$king$"
+ king_plural:0 "$king$"
+
+ emperor:0 "$shogunate_emperor$"
+ emperor_female:0 "$emperor$"
+ emperor_plural:0 "$emperor$"
+
+
+ # Default Feudal tiers 
+
+ barony_feudal:0 "$barony$"
+ county_feudal:0 "$county$"
+ duchy_feudal:0 "$duchy$"
+ duchy_feudal_independent:0 "$duchy$"
+ kingdom_feudal:0 "$kingdom$"
+ empire_feudal:0 "$empire$"
+
+ baron_feudal_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron$', '$shogunate_baron$$shogunate_spouse_male$' ), '$shogunate_baron$' )]"
+ baron_feudal_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron$', '$shogunate_baron$$shogunate_spouse_female$' ), '$shogunate_baron$' )]"
+ count_feudal_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count$', '$shogunate_count$$shogunate_spouse_male$' ), '$shogunate_count$' )]"
+ count_feudal_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count$', '$shogunate_count$$shogunate_spouse_female$' ), '$shogunate_count$' )]"
+ duke_feudal_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke$', '$shogunate_duke$$shogunate_spouse_male$' ), '$shogunate_duke$' )]"
+ duke_feudal_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke$', '$shogunate_duke$$shogunate_spouse_female$' ), '$shogunate_duke$' )]"
+ king_feudal_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king$', '$shogunate_king$$shogunate_spouse_male$' ), '$shogunate_king$' )]"
+ king_feudal_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king$', '$shogunate_king$$shogunate_spouse_female$' ), '$shogunate_king$' )]"
+ emperor_feudal_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor$', '$shogunate_emperor$$shogunate_spouse_male$' ), '$shogunate_emperor$' )]"
+ emperor_feudal_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor$', '$shogunate_emperor$$shogunate_spouse_female$' ), '$shogunate_emperor$' )]"
+
+ duke_feudal_independent:0 "$duke_feudal_male$"
+ duke_feudal_independent_female:0 "$duke_feudal_female$"
+
+
+ # Default Republic tiers
+
+ barony_republic:0 "$shogunate_barony_republic$"
+ county_republic:0 "$county$"
+ duchy_republic:0 "$duchy$"
+ kingdom_republic:0 "$kingdom$"
+ empire_republic:0 "$shogunate_empire_republic$"
+
+ baron_republic_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_republic$', '$shogunate_baron_republic$$shogunate_spouse_male$' ), '$shogunate_baron_republic$' )]"
+ baron_republic_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_republic$', '$shogunate_baron_republic$$shogunate_spouse_female$' ), '$shogunate_baron_republic$' )]"
+ count_republic_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_republic$', '$shogunate_count_republic$$shogunate_spouse_male$' ), '$shogunate_count_republic$' )]"
+ count_republic_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_republic$', '$shogunate_count_republic$$shogunate_spouse_female$' ), '$shogunate_count_republic$' )]"
+ duke_republic_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_republic$', '$shogunate_duke_republic$$shogunate_spouse_male$' ), '$shogunate_duke_republic$' )]"
+ duke_republic_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_republic$', '$shogunate_duke_republic$$shogunate_spouse_female$' ), '$shogunate_duke_republic$' )]"
+ king_republic_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_republic$', '$shogunate_king_republic$$shogunate_spouse_male$' ), '$shogunate_king_republic$' )]"
+ king_republic_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_republic$', '$shogunate_king_republic$$shogunate_spouse_female$' ), '$shogunate_king_republic$' )]"
+ emperor_republic_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_republic$', '$shogunate_emperor_republic$$shogunate_spouse_male$' ), '$shogunate_emperor_republic$' )]"
+ emperor_republic_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_republic$', '$shogunate_emperor_republic$$shogunate_spouse_female$' ), '$shogunate_emperor_republic$' )]"
+
+ # Default Theocracy tiers
+
+ barony_theocracy:0 "$shogunate_barony_theocracy$"
+ county_theocracy:0 "$county$"
+ duchy_theocracy:0 "$duchy$"
+ kingdom_theocracy:0 "$kingdom$"
+ empire_theocracy:0 "$shogunate_empire_theocracy$"
+
+ baron_theocracy_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_theocracy$', '$shogunate_baron_theocracy$$shogunate_spouse_male$' ), '$shogunate_baron_theocracy$' )]"
+ baron_theocracy_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_theocracy$', '$shogunate_baron_theocracy$$shogunate_spouse_female$' ), '$shogunate_baron_theocracy$' )]"
+ count_theocracy_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_theocracy$', '$shogunate_count_theocracy$$shogunate_spouse_male$' ), '$shogunate_count_theocracy$' )]"
+ count_theocracy_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_theocracy$', '$shogunate_count_theocracy$$shogunate_spouse_female$' ), '$shogunate_count_theocracy$' )]"
+ duke_theocracy_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_theocracy$', '$shogunate_duke_theocracy$$shogunate_spouse_male$' ), '$shogunate_duke_theocracy$' )]"
+ duke_theocracy_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_theocracy$', '$shogunate_duke_theocracy$$shogunate_spouse_female$' ), '$shogunate_duke_theocracy$' )]"
+ king_theocracy_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_theocracy$', '$shogunate_king_theocracy$$shogunate_spouse_male$' ), '$shogunate_king_theocracy$' )]"
+ king_theocracy_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_theocracy$', '$shogunate_king_theocracy$$shogunate_spouse_female$' ), '$shogunate_king_theocracy$' )]"
+ emperor_theocracy_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_theocracy$', '$shogunate_emperor_theocracy$$shogunate_spouse_male$' ), '$shogunate_emperor_theocracy$' )]"
+ emperor_theocracy_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_theocracy$', '$shogunate_emperor_theocracy$$shogunate_spouse_female$' ), '$shogunate_emperor_theocracy$' )]"
+
+
+ # Default Mercenary tiers
+
+ barony_mercenary:0 "$shogunate_empire_mercenary$"
+ county_mercenary:0 "$shogunate_empire_mercenary$"
+ duchy_mercenary:0 "$shogunate_empire_mercenary$"
+ kingdom_mercenary:0 "$shogunate_empire_mercenary$"
+ empire_mercenary:0 "$shogunate_empire_mercenary$"
+
+ baron_mercenary_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_mercenary$', '$shogunate_baron_mercenary$$shogunate_spouse_male$' ), '$shogunate_baron_mercenary$' )]"
+ baron_mercenary_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_baron_mercenary$', '$shogunate_baron_mercenary$$shogunate_spouse_female$' ), '$shogunate_baron_mercenary$' )]"
+ count_mercenary_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_mercenary$', '$shogunate_count_mercenary$$shogunate_spouse_male$' ), '$shogunate_count_mercenary$' )]"
+ count_mercenary_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_count_mercenary$', '$shogunate_count_mercenary$$shogunate_spouse_female$' ), '$shogunate_count_mercenary$' )]"
+ duke_mercenary_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_mercenary$', '$shogunate_duke_mercenary$$shogunate_spouse_male$' ), '$shogunate_duke_mercenary$' )]"
+ duke_mercenary_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_duke_mercenary$', '$shogunate_duke_mercenary$$shogunate_spouse_female$' ), '$shogunate_duke_mercenary$' )]"
+ king_mercenary_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_mercenary$', '$shogunate_king_mercenary$$shogunate_spouse_male$' ), '$shogunate_king_mercenary$' )]"
+ king_mercenary_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_king_mercenary$', '$shogunate_king_mercenary$$shogunate_spouse_female$' ), '$shogunate_king_mercenary$' )]"
+ emperor_mercenary_male:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_mercenary$', '$shogunate_emperor_mercenary$$shogunate_spouse_male$' ), '$shogunate_emperor_mercenary$' )]"
+ emperor_mercenary_female:0 "[Select_CString( Character.IsValid, Select_CString( GreaterThan_int32( Character.GetPrimaryTitle.GetTierFrame, '(int32)1' ), '$shogunate_emperor_mercenary$', '$shogunate_emperor_mercenary$$shogunate_spouse_female$' ), '$shogunate_emperor_mercenary$' )]"

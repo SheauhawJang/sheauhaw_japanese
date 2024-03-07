@@ -1,0 +1,13 @@
+﻿l_japanese:
+ HYBRID_NAME_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_COLLECTIVE_NOUN_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_PREFIX_FORMAT_0:0 "[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_NAME_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HYBRID_COLLECTIVE_NOUN_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HYBRID_PREFIX_FORMAT_1:0 "[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HYBRID_NAME_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_COLLECTIVE_NOUN_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_PREFIX_FORMAT_2:0 "新[TITLE.GetHolder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]"
+ HYBRID_NAME_FORMAT_3:0 "新[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HYBRID_COLLECTIVE_NOUN_FORMAT_3:0 "新[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"
+ HYBRID_PREFIX_FORMAT_3:0 "新[TITLE.GetHolder.GetHouse.GetBaseNameNoTooltip]"

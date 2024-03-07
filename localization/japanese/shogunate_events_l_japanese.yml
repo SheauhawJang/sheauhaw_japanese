@@ -1,0 +1,112 @@
+﻿l_japanese:
+
+ # Get Meritocracy Perk
+ shogunate_gekokujo.0001.t:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip]の野望"
+ shogunate_gekokujo.0001.desc:0 "[title.GetName]を手中に収めたことで、私の心に小さな野心が芽生えた。戦国の世に生まれたからには、実力でのし上がってみせる。"
+ shogunate_gekokujo.0001.desc_ambitious:0 "[title.GetName]を手中に収めたことで、私の心に大きな野心が芽生えた。戦国の世に生まれたからには、この手で天下を獲ってみせる。"
+ shogunate_gekokujo.0001.desc_content:0 "[title.GetName]を手中に収めたことで、私の心に大それた野心が芽生えた。戦国の世に生まれたとはいえ、謀反など考えるだけでも恐ろしい。"
+ shogunate_gekokujo.0001.a:0 "これも乱世のならいなれば。"
+
+ # Battle of Okehazama
+ shogunate_history.0002.t:0 "[location.GetNameNoTooltip]の戦い"
+ shogunate_history.0002.desc:0 "[winner.GetHouse.GetBaseNameNoTooltip]軍は[location.GetName]において[loser.GetUIName]の本陣を奇襲。[commander.GetUIName]は見事[loser.GetFirstNameNoTooltip]を討ち取った。\n\n大将を失った[loser.GetHouse.GetBaseNameNoTooltip]軍は瞬く間に崩壊し、戦は混乱のうちに終結した。"
+ shogunate_history.0002.a:0 "この戦は後の世まで語り継がれよう。"
+
+ # Battle of Itsukushima
+ shogunate_history.0004.t:0 "[location.GetNameNoTooltip]の戦い"
+ shogunate_history.0004.desc:0 "[winner.GetHouse.GetBaseNameNoTooltip]軍は[location.GetName]において[enemy_commander.GetUIName]の本陣を奇襲。[commander.GetUIName]は見事[enemy_commander.GetFirstNameNoTooltip]を討ち取った。\n\n大将を失った[loser.GetHouse.GetBaseNameNoTooltip]軍は瞬く間に崩壊した。"
+ shogunate_history.0004.a:0 "この戦は後の世まで語り継がれよう。"
+
+ # Battle of Kawagoe
+ shogunate_history.0006.t:0 "[location.GetNameNoTooltip]の戦い"
+ shogunate_history.0006.desc:0 "[winner.GetHouse.GetBaseNameNoTooltip]軍は[location.GetName]において[loser.GetUIName]の本陣を奇襲。[commander.GetUIName]は見事[loser.GetFirstNameNoTooltip]を討ち取った。\n\n大将を失った[loser.GetHouse.GetBaseNameNoTooltip]軍は瞬く間に崩壊し、戦は混乱のうちに終結した。"
+ shogunate_history.0006.a:0 "この戦は後の世まで語り継がれよう。"
+
+ # Oda Nobunaga's Campaign to Kyoto
+ shogunate_history.0008.t:0 "[shogunate.GetNameNoTierNoTooltip]再興"
+ shogunate_history.0008.desc:0 "[nobunaga.GetUIName]は天下布武を掲げ、[yoshiaki.GetUIName]を奉じて上洛すると[shogunate.GetNameNoTierNoTooltip]再興を成し遂げた。\n\n[yoshiaki.GetFirstNameNoTooltip]より[shogunate.GetNameNoTierNoTooltip]の軍事指揮権を委ねられた[nobunaga.GetFirstNameNoTooltip]は、この二重政権をどこに導くのだろうか？"
+ shogunate_history.0008.a:0 "[nobunaga.GetFirstNameNoTooltip]の野望は果てしない。"
+ shogunate_history.0008.b:0 "[nobunaga.GetFirstNameNoTooltip]が欲するは秩序のみ。"
+ shogunate_history.0008.c:0 "[nobunaga.GetFirstNameNoTooltip]は将軍になぞ従わぬ。"
+ shogunate_history.0008.d:0 "我々には見守ることしかできぬ。"
+ shogunate_history.0008.become_vassal:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]は[yoshiaki.GetHouse.GetBaseNameNoTooltip][yoshiaki.GetFirstNameNoTooltip]に臣従します#!"
+ shogunate_history.0008.not_become_vassal:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]は[yoshiaki.GetHouse.GetBaseNameNoTooltip][yoshiaki.GetFirstNameNoTooltip]に臣従しません#!"
+ shogunate_history.0008.loyal:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]は[shogunate.GetNameNoTierNoTooltip]に忠誠を尽くすでしょう#!"
+ shogunate_history.0008.disloyal:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]は不満があれば[shogunate.GetNameNoTierNoTooltip]を滅ぼすでしょう#!"
+ shogunate_history.0008.independent:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]は[shogunate.GetNameNoTierNoTooltip]から独立して行動するでしょう#!"
+ shogunate_history.0008.recommended:0 "#ENC 歴史通りの展開を好む方にお勧めです#!"
+ shogunate_history.0008.other_player:0 "#I [nobunaga.GetHouse.GetBaseNameNoTooltip][nobunaga.GetFirstNameNoTooltip]の行動は他のプレイヤーが決定します#!"
+
+ # Spread of the arquebus
+ shogunate_culture.0002.t:0 "火縄銃の普及"
+ shogunate_culture.0002.opening.desc:0 "南蛮人がもたらした新たな武器が[target_culture.GetName]に広まっている。\n\n鉄砲なるこの武器は、弾丸を火薬の力で発射する仕組みである。点火に用いる火縄から火縄銃とも、種子島に伝来したことから種子島とも呼ばれている。\n\n"
+ shogunate_culture.0002.before_spread.desc:0 "この武器は轟音を発し、たやすく鳥を落とすと言う。他国の大名どもが先を争うように購入しているとも聞く。\n\n世の中を変える武器と評する者もいるが、真であろうか。"
+ shogunate_culture.0002.after_spread.desc:0 "鉄砲は殺傷力が高く、刀剣や弓矢に比べて扱いも簡単である。ゆえに、稚拙な技量しか持たぬ雑兵であっても手練れの武者に対抗し得る新兵器と言える。\n\n新たな武器の可能性に気づいた大名どもは先を争うように鉄砲を購入している。時代は新たな局面に入った。"
+ shogunate_culture.0002.a:0 "新たな武器は戦をいかに変えるのか。"
+ shogunate_culture.0002.b:0 "奴らもようやく鉄砲の力に気づいたか。"
+ shogunate_culture.0002.c:0 "南蛮人がまた妙なものを持ち込んだな。"
+
+ # Spread of the cannon
+ shogunate_culture.0012.t:0 "大筒の普及"
+ shogunate_culture.0012.desc:0 "南蛮人がもたらした新たな武器が[target_culture.GetName]に広まっている。\n\n大筒なるこの武器は、鉄砲より遥かに大きな弾丸を火薬の力で発射する仕組みである。"
+ shogunate_culture.0012.a:0 "新たな武器は戦をいかに変えるのか。"
+
+ # Gain a building
+ shogunate_building.0003.t:0 "[temp_character.Custom('shogunate_building_name')]の獲得"
+ shogunate_building.0003.with_owner.desc:0 "これまで[previous_owner.GetUIName]の支配下にあった[temp_character.Custom('shogunate_building_name')]が我が物となった。\n\n戦略的に極めて重要なこの[temp_character.Custom('shogunate_building_class')]は[building_place.GetDeJureLiege.GetName]の[building_place.GetName]にあり、天下広しといえどもその名を知らぬものはない。"
+ shogunate_building.0003.without_owner.desc:0 "[temp_character.Custom('shogunate_building_name')]が我が物となった。\n\n戦略的に極めて重要なこの[temp_character.Custom('shogunate_building_class')]は[building_place.GetDeJureLiege.GetName]の[building_place.GetName]にあり、天下広しといえどもその名を知らぬものはない。"
+ shogunate_building.0003.a:0 "これを使わぬ手はない。"
+
+ # Lose a building
+ shogunate_building.0004.t:0 "[temp_character.Custom('shogunate_building_name')]の喪失"
+ shogunate_building.0004.desc:0 "これまで我が支配下にあった[temp_character.Custom('shogunate_building_name')]が[new_owner.GetUIName]に奪われた。\n\n戦略的に極めて重要なこの[temp_character.Custom('shogunate_building_class')]は[building_place.GetDeJureLiege.GetName]の[building_place.GetName]にあり、天下広しといえどもその名を知らぬものはない。"
+ shogunate_building.0004.a:0 "是非もなし。"
+
+ # Notify the destroyed special title
+ shogunate_gekokujo.0007.t:0 "最後の[title.Custom('shogunate_special_title_tier')]"
+ shogunate_gekokujo.0007.with_holder.desc:0 "最後の[title.Custom('shogunate_special_title_tier')]である[previous_holder.GetHouse.GetBaseNameNoTooltip][previous_holder.GetFirstName]が[new_holder.GetHouse.GetBaseNameNoTooltip][new_holder.GetFirstName]により追放された。\n\n伝統ある[title.GetName]の独立もこれまでだ。"
+ shogunate_gekokujo.0007.without_holder.desc:0 "最後の[title.Custom('shogunate_special_title_tier')]である[previous_holder.GetHouse.GetBaseNameNoTooltip][previous_holder.GetFirstName]が追放された。\n\n伝統ある[title.GetName]の独立もこれまでだ。"
+ shogunate_gekokujo.0007.a:0 "これも乱世のならいなれば。"
+
+ # The new Shogunate
+ shogunate_gekokujo.0008.t:0 "[founder.GetHouse.GetBaseNameNoTooltip]幕府成立"
+ shogunate_gekokujo.0008.desc:0 "[founder.GetHouse.GetBaseNameNoTooltip][founder.GetFirstName]は朝廷より将軍宣下を受け、新たな幕府を開いた。\n\n[founder.GetHouse.GetBaseNameNoTooltip]幕府は[capital.GetName]に拠点を置き、天下平定を目指している。"
+ shogunate_gekokujo.0008.a:0 "征夷大将軍万歳！"
+ shogunate_gekokujo.0008.b:0 "従うべきか、抗うべきか。"
+
+ # The Start of Sengoku
+ shogunate_sengoku.0002.t:0 "戦国の幕開け"
+ shogunate_sengoku.0002.desc:0 "$shogunate_struggle.0001.desc$"
+ shogunate_sengoku.0002.a:0 "$shogunate_struggle.0001.a$"
+
+ # Commit Seppuku in a siege
+ shogunate_seppuku.0002.t:0 "[capital.GetNameNoTierNoTooltip]落城"
+ shogunate_seppuku.0002.desc.1:0 "我が[capital.GetName]もまもなく落ちる。何者かによって火が掛けられ、もはや城から逃げ出すこともままならない。\n\n私の居場所を探す敵兵の声がしだいに近づいてきた。雑兵の手に掛かって死ぬくらいなら、ここで潔く腹を切るべきか。"
+ shogunate_seppuku.0002.desc.2:0 "[capital.GetName]もまもなく落ちる。何者かによって火が掛けられ、もはや城から逃げ出すこともままならない。\n\n私の居場所を探す敵兵の声がしだいに近づいてきた。雑兵の手にかかって死ぬくらいなら、ここで潔く腹を切るべきか。"
+ shogunate_seppuku.0002.a0:0 "潔く城と運命を共にせん。"
+ shogunate_seppuku.0002.a1:0 "潔く城と運命を共にせん。[supporter1.GetFirstNameNoTooltip]、介錯を頼む。"
+ shogunate_seppuku.0002.a2:0 "潔く城と運命を共にせん。[supporter2.GetFirstNameNoTooltip]、介錯を頼む。"
+ shogunate_seppuku.0002.b0:0 "辞世を詠み、城と運命を共にせん。"
+ shogunate_seppuku.0002.b1:0 "辞世を詠み、城と運命を共にせん。[supporter1.GetFirstNameNoTooltip]、介錯を頼む。"
+ shogunate_seppuku.0002.b2:0 "辞世を詠み、城と運命を共にせん。[supporter2.GetFirstNameNoTooltip]、介錯を頼む。"
+ shogunate_seppuku.0002.c:0 "生き恥を晒してでも再戦の時を待とう。"
+ shogunate_seppuku.0002.d:0 "こんなところで命を落としては犬死だ。"
+ shogunate_seppuku.0002.e:0 "腹など切りとうない！誰か助けてくれ！"
+ shogunate_seppuku.0002.f:0 "満足に腹も切れぬとは末代までの恥だ。"
+
+ shogunate_seppuku.0006.t:0 "[actor.GetHouse.GetBaseNameNoTooltip][actor.GetFirstNameNoTooltip]の最期"
+ shogunate_seppuku.0006.desc.1:0 "我が[recipient.Custom2('RelationToMe', actor)|U]、[actor.GetFullNameNicknamed]は燃え盛る[capital.GetName]と運命を共にした。雑兵の手に掛かる前に自ら命を絶ったのだ。\n\n"
+ shogunate_seppuku.0006.desc.2.a:0 "[actor.GetSheHe|U]は死に際しても平静さを失わず、堂々と辞世を詠み、腹を切った。最期は[supporter.GetFullNameNicknamed]の介錯で果てたという。\n\n[actor.GetFirstNameNoTooltip]の遺した辞世は末代まで語り継がれるであろう。"
+ shogunate_seppuku.0006.desc.2.b:0 "[actor.GetSheHe|U]は死に際しても平静さを失わず、堂々と辞世を詠み、腹を切った。\n\n[actor.GetFirstNameNoTooltip]の遺した辞世は末代まで語り継がれるであろう。"
+ shogunate_seppuku.0006.desc.2.c:0 "[actor.GetSheHe|U]は死に際しても平静さを失わず、堂々と腹を切った。最期は[supporter.GetFullNameNicknamed]の介錯で果てたという。"
+ shogunate_seppuku.0006.desc.2.d:0 "[actor.GetSheHe|U]は死に際しても平静さを失わず、堂々と腹を切ったという。"
+ shogunate_seppuku.0006.a:0 "なんとあっぱれな死に様か。"
+ shogunate_seppuku.0006.b:0 "くだらんな。ただの犬死よ。"
+ shogunate_seppuku.0006.c:0 "潔き最期よ。あやかりたし。"
+ shogunate_seppuku.0006.d:0 "自害でも死は悲しきものよ。"
+ shogunate_seppuku.0006.e:0 "神よ、彼の者の罪を許し給え。"
+
+ death_seppuku:0 "切腹した"
+ death_seppuku_killer:0 "切腹し、[TARGET_CHARACTER.GetUINameNotMe]の介錯で息絶えた"
+ death_seppuku_with_poem:0 "辞世を遺して切腹した"
+ death_seppuku_with_poem_killer:0 "辞世を遺して切腹し、[TARGET_CHARACTER.GetUINameNotMe]の介錯で息絶えた"

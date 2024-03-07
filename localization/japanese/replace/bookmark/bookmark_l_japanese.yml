@@ -1,0 +1,4 @@
+﻿l_japanese:
+ BOOKMARK_CHARACTER_TITLE:0 "[BookmarkCharacter.GetTitleName]の$game_concept_ruler$"
+ BOOKMARK_CHARACTER_TITLE_TYPE:0 "[BookmarkCharacter.GetTitleName]の$game_concept_ruler$#weak （[BookmarkCharacter.GetGovernmentType.GetName]）#!"
+ BOOKMARK_CHARACTER_TITLE_DATA:0 "[primary_title|E]: #V [BOOKMARK_CHARACTER.GetTitleName]の$game_concept_ruler$#!"

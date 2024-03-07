@@ -1,0 +1,44 @@
+﻿l_japanese:
+
+ SHOGUNATE_CALL_ALLY_DESCRIPTION:0 "#X 防衛戦争には50以上、攻撃戦争には75以上の評価が必要です#!\n"
+ SHOGUNATE_DECLARE_WAR_DESCRIPTION:0 "同盟者の兵力は含みません"
+
+ SHOGUNATE_NOT_IN_DIPLOMATIC_RANGE:0 "$NOT_IN_DIPLOMATIC_RANGE$: $VALUE|+0=$"
+
+ SHOGUNATE_HIGH_SKILL_DIPLOMACY:0 "[secondary_recipient.GetShortUIName|U]は外交に秀でている: $VALUE|+0=$"
+ SHOGUNATE_HIGH_SKILL_MARTIAL:0 "[secondary_recipient.GetShortUIName|U]は軍事に秀でている: $VALUE|+0=$"
+ SHOGUNATE_HIGH_SKILL_STEWARDSHIP:0 "[secondary_recipient.GetShortUIName|U]は管理に秀でている: $VALUE|+0=$"
+ SHOGUNATE_HIGH_SKILL_INTRIGUE:0 "[secondary_recipient.GetShortUIName|U]は策略に秀でている: $VALUE|+0=$"
+ SHOGUNATE_HIGH_SKILL_LEARNING:0 "[secondary_recipient.GetShortUIName|U]は学識に秀でている: $VALUE|+0=$"
+ SHOGUNATE_HIGH_SKILL_PROWESS:0 "[secondary_recipient.GetShortUIName|U]は武勇に秀でている: $VALUE|+0=$"
+
+ SHOGUNATE_VASSALIZATION_NANBOKUCHO_PENALTY:0 "南北朝争乱の渦中にある: $VALUE|=+0$"
+ SHOGUNATE_VASSALIZATION_NANBOKUCHO_ENEMY_SUPPORTER:0 "[recipient.GetSheHe|U]は南北朝争乱の敵方である: $VALUE|=+0$"
+
+ shogunate_arrange_adoption_interaction:0 "養子縁組の提案"
+ shogunate_arrange_adoption_interaction_desc:0 "[recipient.GetHouse.GetBaseNameNoTooltip][recipient.GetFirstNameNoTooltip]に養子縁組を提案します"
+ shogunate_arrange_adoption_interaction_extra_icon:0 "$hook_extra_icon$"
+ actor_secondary_shogunate_arrange_adoption_interaction:0 "送付者"
+
+ SHOGUNATE_ADOPTION_SELECT_MY_CANDIDATE:0 "#I あなたの[court|E]から義父または養子を選択します#!"
+ SHOGUNATE_ADOPTION_SELECT_THEIR_CANDIDATE:0 "#I 彼らの[court|E]から義父または養子を選択します#!"
+ SHOGUNATE_ADOPTION_HOOK:0 "[hook|E]を使う"
+ SHOGUNATE_ADOPTION_AGE_IS_TOO_CLOSE:0 "年齢が近すぎる"
+ SHOGUNATE_ADOPTION_FATHER_IS_NOT_MALE:0 "義父が男性でない"
+ SHOGUNATE_ADOPTION_CHILD_IS_MARRIED_OR_BETROTHED:0 "養子が[married|E]または[betrothed|E]している"
+ SHOGUNATE_ADOPTION_ACTOR_IS_NOT_DYNAST:0 "送付者が[dynast|E]でない"
+ SHOGUNATE_ADOPTION_TIER_DIFFERENCE:0 "[actor.GetHouse.GetBaseNameNoTooltip][actor.GetFirstName]と[recipient.GetHouse.GetBaseNameNoTooltip][recipient.GetFirstName]の階級の違い: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_FATHER_HAS_NO_SON:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]は高齢で嫡男がいない: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_FATHER_HAS_ANY_SON:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]には嫡男がいる: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_FATHER_HAS_LOW_FERTILITY:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]は生殖力が低い: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_MOTHER_HAS_LOW_FERTILITY:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]の配偶者は生殖力が低い: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_CHILD_IS_TOO_YOUNG:0 "[secondary_actor.GetHouse.GetBaseNameNoTooltip][secondary_actor.GetFirstName]は未成年である: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_CHILD_IS_FEMALE:0 "[secondary_actor.GetHouse.GetBaseNameNoTooltip][secondary_actor.GetFirstName]は女性である: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_CHILD_IS_NOT_HEALTHY:0 "[secondary_actor.GetHouse.GetBaseNameNoTooltip][secondary_actor.GetFirstName]は健康でない: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_CHILD_IS_HEIR:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]は後継者である: $VALUE|=+0$"
+ SHOGUNATE_ADOPTION_CHILD_IS_LANDED:0 "[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]は所領を持っている: $VALUE|=+0$"
+
+ SHOGUNATE_ADOPTION_NOTIFICATION:0 "私の[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))]、[secondary_actor.GetHouse.GetBaseNameNoTooltip][secondary_actor.GetFirstName]とあなたの[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]との養子縁組を提案します。"
+ SHOGUNATE_ADOPTION_NOTIFICATION_ACTOR_PERSONAL:0 "あなたの許可を得て、私はあなたの[recipient.Custom2('RelationToMe', SCOPE.sC('secondary_recipient'))]、[secondary_recipient.Custom('ComplimentAdjective')][secondary_recipient.GetHouse.GetBaseNameNoTooltip][secondary_recipient.GetFirstName]と養子縁組したいと考えています。"
+ SHOGUNATE_ADOPTION_NOTIFICATION_RECIPIENT_PERSONAL:0 "私の[actor.Custom2('RelationToMe', SCOPE.sC('secondary_actor'))]、[secondary_actor.Custom('ComplimentAdjective')][secondary_actor.GetHouse.GetBaseNameNoTooltip][secondary_actor.GetFirstName]とあなたの養子縁組を提案します。"
+ SHOGUNATE_ADOPTION_NOTIFICATION_BOTH_PERSONAL:0 "両国のために、私たちの養子縁組を提案します。"

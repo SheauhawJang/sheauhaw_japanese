@@ -1,0 +1,13 @@
+﻿l_japanese:
+ culture_era_pre_tribal:0 "平安"
+ culture_era_pre_tribal_desc:0 "平安時代は武家政治が登場する以前の公家中心の時代です。[tribal_government|E]の統治者は平安時代の[innovations|E]しか利用できません。"
+ culture_era_tribal:0 "鎌倉"
+ culture_era_tribal_desc:0 "鎌倉時代は幕府による武家政治が始まる時代です。文化の担い手はまだ公家や寺社が中心ですが、しだいに武家特有の文化が生まれ始めます。"
+ culture_era_pre_medieval:0 "室町"
+ culture_era_pre_medieval_desc:0 "室町時代は武家が公家を圧倒する時代です。武家の文化と公家や寺社の文化が融合し、庶民も文化の担い手として登場し始めます。"
+ culture_era_early_medieval:0 "戦国初期"
+ culture_era_early_medieval_desc:0 "戦国時代初期は戦国大名が登場し始める時代です。ヨーロッパでは大航海時代が始まっていますが、日本はまだ西洋と接触していません。"
+ culture_era_high_medieval:0 "戦国中期"
+ culture_era_high_medieval_desc:0 "戦国時代中期は戦国大名が支配を広げていく時代です。鉄砲やキリスト教に代表される南蛮文化が社会に影響を及ぼし始めます。"
+ culture_era_late_medieval:0 "安土桃山"
+ culture_era_late_medieval_desc:0 "安土桃山時代は天下統一の時代です。大きな権力と富を手にした統一政権のもと、雄大で豪華絢爛な文化が生まれます。"

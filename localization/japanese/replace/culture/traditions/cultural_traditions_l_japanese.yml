@@ -1,0 +1,5 @@
+﻿l_japanese:
+
+ tradition_noble_adoption_name:0 "日本の養子"
+ tradition_noble_adoption_desc:0 "この社会では、お家を守るために名家が養子を取るのは当たり前である。"
+ culture_parameter_allows_adoption:0 "この[culture|E]の[dynast|E]は、[prestige|E]や[dynasty_prestige|E]と引き換えに他の[rulers|E]に対して[adoption|E]を提案できる。"

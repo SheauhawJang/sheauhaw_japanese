@@ -1,0 +1,15 @@
+﻿l_japanese:
+
+ # /interactions_l_english.yml
+ RELEASE_TAKE_VOWS:0 "出家させる"
+ take_vows_interaction:0 "出家を要求する"
+
+ # /opinions/prison_opinions_l_english.yml
+ demanded_taking_vows:0 "出家を要求した"
+
+ # /opinions/religion_opinions_l_english.yml
+ asked_me_to_take_vows_opinion:0 "出家を要求した"
+
+ # /culture/traditions/cultural_traditions_l_english.yml
+ culture_parameter_monastic_expectations:1 "この[culture|E]の[characters|E]、特に未成年の子どもは、出家を受け入れやすくなります"
+
